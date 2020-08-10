@@ -1,0 +1,2284 @@
+/content/emotion_dataset/fear/03-01-06-02-01-01-11.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_thought_happy.wav|Say the word thought
+/content/emotion_dataset/sad/YAF_sail_sad.wav|Say the word sail
+/content/emotion_dataset/fear/03-01-06-01-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_yes_angry.wav|Say the word yes
+/content/emotion_dataset/angry/OAF_said_angry.wav|Say the word said
+/content/emotion_dataset/angry/03-01-05-01-01-01-17.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_dime_angry.wav|Say the word dime
+/content/emotion_dataset/happy/OAF_met_happy.wav|Say the word met
+/content/emotion_dataset/fear/YAF_walk_fear.wav|Say the word walk
+/content/emotion_dataset/neutral/OAF_sour_neutral.wav|Say the word sour
+/content/emotion_dataset/fear/03-01-06-01-01-02-22.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_back_sad.wav|Say the word back
+/content/emotion_dataset/happy/03-01-03-02-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_wag_neutral.wav|Say the word wag
+/content/emotion_dataset/happy/OAF_rag_happy.wav|Say the word rag
+/content/emotion_dataset/fear/YAF_food_fear.wav|Say the word food
+/content/emotion_dataset/fear/OAF_raise_fear.wav|Say the word raise
+/content/emotion_dataset/neutral/OAF_thumb_neutral.wav|Say the word thumb
+/content/emotion_dataset/fear/OAF_name_fear.wav|Say the word name
+/content/emotion_dataset/happy/03-01-03-02-02-02-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_pain_neutral.wav|Say the word pain
+/content/emotion_dataset/happy/OAF_death_happy.wav|Say the word death
+/content/emotion_dataset/sad/03-01-04-01-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-02-02-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-01-06.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_tape_neutral.wav|Say the word tape
+/content/emotion_dataset/happy/OAF_mess_happy.wav|Say the word mess
+/content/emotion_dataset/fear/OAF_mess_fear.wav|Say the word mess
+/content/emotion_dataset/sad/OAF_red_sad.wav|Say the word red
+/content/emotion_dataset/angry/OAF_turn_angry.wav|Say the word turn
+/content/emotion_dataset/sad/OAF_boat_sad.wav|Say the word boat
+/content/emotion_dataset/happy/YAF_rat_happy.wav|Say the word rat
+/content/emotion_dataset/neutral/03-01-01-01-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_mode_sad.wav|Say the word mode
+/content/emotion_dataset/neutral/03-01-01-01-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_ton_neutral.wav|Say the word ton
+/content/emotion_dataset/sad/YAF_lease_sad.wav|Say the word lease
+/content/emotion_dataset/angry/YAF_goose_angry.wav|Say the word goose
+/content/emotion_dataset/angry/OAF_good_angry.wav|Say the word good
+/content/emotion_dataset/angry/YAF_food_angry.wav|Say the word food
+/content/emotion_dataset/sad/YAF_sour_sad.wav|Say the word sour
+/content/emotion_dataset/fear/YAF_mob_fear.wav|Say the word mob
+/content/emotion_dataset/neutral/OAF_deep_neutral.wav|Say the word deep
+/content/emotion_dataset/sad/OAF_when_sad.wav|Say the word when
+/content/emotion_dataset/sad/03-01-04-01-02-01-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_neat_happy.wav|Say the word neat
+/content/emotion_dataset/sad/03-01-04-01-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_lid_happy.wav|Say the word lid
+/content/emotion_dataset/fear/OAF_search_fear.wav|Say the word search
+/content/emotion_dataset/sad/YAF_pad_sad.wav|Say the word pad
+/content/emotion_dataset/angry/YAF_kite_angry.wav|Say the word kite
+/content/emotion_dataset/happy/03-01-03-01-01-01-16.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_yearn_neutral.wav|Say the word yearn
+/content/emotion_dataset/happy/YAF_long_happy.wav|Say the word long
+/content/emotion_dataset/happy/YAF_sell_happy.wav|Say the word sell
+/content/emotion_dataset/fear/03-01-06-01-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_rose_fear.wav|Say the word rose
+/content/emotion_dataset/angry/03-01-05-01-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_nice_neutral.wav|Say the word nice
+/content/emotion_dataset/fear/YAF_mouse_fear.wav|Say the word mouse
+/content/emotion_dataset/happy/OAF_rough_happy.wav|Say the word rough
+/content/emotion_dataset/fear/03-01-06-02-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_tough_angry.wav|Say the word tough
+/content/emotion_dataset/fear/OAF_good_fear.wav|Say the word good
+/content/emotion_dataset/neutral/OAF_perch_neutral.wav|Say the word perch
+/content/emotion_dataset/happy/03-01-03-01-02-02-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_hurl_happy.wav|Say the word hurl
+/content/emotion_dataset/neutral/03-01-01-01-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_rush_happy.wav|Say the word rush
+/content/emotion_dataset/angry/03-01-05-02-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_gas_happy.wav|Say the word gas
+/content/emotion_dataset/happy/YAF_south_happy.wav|Say the word south
+/content/emotion_dataset/sad/OAF_pole_sad.wav|Say the word pole
+/content/emotion_dataset/neutral/03-01-01-01-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_sour_fear.wav|Say the word sour
+/content/emotion_dataset/happy/OAF_kite_happy.wav|Say the word kite
+/content/emotion_dataset/happy/03-01-03-01-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_chat_sad.wav|Say the word chat
+/content/emotion_dataset/sad/OAF_sour_sad.wav|Say the word sour
+/content/emotion_dataset/fear/OAF_late_fear.wav|Say the word late
+/content/emotion_dataset/happy/OAF_wag_happy.wav|Say the word wag
+/content/emotion_dataset/fear/OAF_join_fear.wav|Say the word join
+/content/emotion_dataset/happy/YAF_kite_happy.wav|Say the word kite
+/content/emotion_dataset/fear/OAF_doll_fear.wav|Say the word doll
+/content/emotion_dataset/happy/YAF_gin_happy.wav|Say the word gin
+/content/emotion_dataset/happy/YAF_death_happy.wav|Say the word death
+/content/emotion_dataset/fear/OAF_fat_fear.wav|Say the word fat
+/content/emotion_dataset/angry/OAF_void_angry.wav|Say the word void
+/content/emotion_dataset/angry/YAF_page_angry.wav|Say the word page
+/content/emotion_dataset/fear/OAF_lean_fear.wav|Say the word lean
+/content/emotion_dataset/sad/YAF_home_sad.wav|Say the word home
+/content/emotion_dataset/sad/OAF_puff_sad.wav|Say the word puff
+/content/emotion_dataset/angry/YAF_join_angry.wav|Say the word join
+/content/emotion_dataset/happy/03-01-03-01-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_king_happy.wav|Say the word king
+/content/emotion_dataset/happy/OAF_ditch_happy.wav|Say the word ditch
+/content/emotion_dataset/fear/YAF_moon_fear.wav|Say the word moon
+/content/emotion_dataset/fear/OAF_witch_fear.wav|Say the word witch
+/content/emotion_dataset/sad/YAF_wheat_sad.wav|Say the word wheat
+/content/emotion_dataset/angry/YAF_bone_angry.wav|Say the word bone
+/content/emotion_dataset/fear/OAF_shirt_fear.wav|Say the word shirt
+/content/emotion_dataset/neutral/YAF_luck_neutral.wav|Say the word luck
+/content/emotion_dataset/happy/YAF_dab_happy.wav|Say the word dab
+/content/emotion_dataset/neutral/OAF_walk_neutral.wav|Say the word walk
+/content/emotion_dataset/angry/03-01-05-01-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_loaf_happy.wav|Say the word loaf
+/content/emotion_dataset/sad/YAF_sub_sad.wav|Say the word sub
+/content/emotion_dataset/fear/03-01-06-02-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_jail_fear.wav|Say the word jail
+/content/emotion_dataset/sad/OAF_rose_sad.wav|Say the word rose
+/content/emotion_dataset/angry/OAF_lean_angry.wav|Say the word lean
+/content/emotion_dataset/happy/YAF_life_happy.wav|Say the word life
+/content/emotion_dataset/neutral/YAF_judge_neutral.wav|Say the word judge
+/content/emotion_dataset/happy/03-01-03-02-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_thought_neutral.wav|Say the word thought
+/content/emotion_dataset/neutral/03-01-01-01-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_jug_neutral.wav|Say the word jug
+/content/emotion_dataset/neutral/OAF_love_neutral.wav|Say the word love
+/content/emotion_dataset/fear/OAF_pool_fear.wav|Say the word pool
+/content/emotion_dataset/fear/YAF_mess_fear.wav|Say the word mess
+/content/emotion_dataset/sad/03-01-04-02-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_cab_sad.wav|Say the word cab
+/content/emotion_dataset/neutral/YAF_join_neutral.wav|Say the word join
+/content/emotion_dataset/happy/YAF_keep_happy.wav|Say the word keep
+/content/emotion_dataset/angry/03-01-05-01-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_base_sad.wav|Say the word base
+/content/emotion_dataset/sad/03-01-04-01-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_rat_fear.wav|Say the word rat
+/content/emotion_dataset/fear/03-01-06-02-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_bar_happy.wav|Say the word bar
+/content/emotion_dataset/angry/YAF_lose_angry.wav|Say the word lose
+/content/emotion_dataset/sad/03-01-04-02-02-01-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_read_angry.wav|Say the word read
+/content/emotion_dataset/angry/03-01-05-01-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_soup_sad.wav|Say the word soup
+/content/emotion_dataset/sad/OAF_pain_sad.wav|Say the word pain
+/content/emotion_dataset/sad/YAF_mouse_sad.wav|Say the word mouse
+/content/emotion_dataset/angry/03-01-05-02-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_white_angry.wav|Say the word white
+/content/emotion_dataset/sad/03-01-04-01-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-16.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_goose_sad.wav|Say the word goose
+/content/emotion_dataset/sad/OAF_choice_sad.wav|Say the word choice
+/content/emotion_dataset/neutral/YAF_sheep_neutral.wav|Say the word sheep
+/content/emotion_dataset/sad/03-01-04-02-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_rot_happy.wav|Say the word rot
+/content/emotion_dataset/sad/OAF_dime_sad.wav|Say the word dime
+/content/emotion_dataset/fear/OAF_raid_fear.wav|Say the word raid
+/content/emotion_dataset/happy/OAF_fit_happy.wav|Say the word fit
+/content/emotion_dataset/sad/OAF_far_sad.wav|Say the word far
+/content/emotion_dataset/sad/OAF_join_sad.wav|Say the word join
+/content/emotion_dataset/fear/03-01-06-02-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_hash_sad.wav|Say the word hash
+/content/emotion_dataset/fear/03-01-06-01-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_fail_happy.wav|Say the word fail
+/content/emotion_dataset/fear/03-01-06-02-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_home_fear.wav|Say the word home
+/content/emotion_dataset/fear/OAF_pick_fear.wav|Say the word pick
+/content/emotion_dataset/sad/YAF_thumb_sad.wav|Say the word thumb
+/content/emotion_dataset/neutral/OAF_tape_neutral.wav|Say the word tape
+/content/emotion_dataset/sad/YAF_cool_sad.wav|Say the word cool
+/content/emotion_dataset/angry/OAF_cab_angry.wav|Say the word cab
+/content/emotion_dataset/sad/YAF_moon_sad.wav|Say the word moon
+/content/emotion_dataset/sad/03-01-04-02-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_kick_fear.wav|Say the word kick
+/content/emotion_dataset/sad/03-01-04-02-02-01-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_when_neutral.wav|Say the word when
+/content/emotion_dataset/fear/YAF_calm_fear.wav|Say the word calm
+/content/emotion_dataset/happy/03-01-03-01-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_home_neutral.wav|Say the word home
+/content/emotion_dataset/angry/OAF_thumb_angry.wav|Say the word thumb
+/content/emotion_dataset/sad/03-01-04-02-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_nice_happy.wav|Say the word nice
+/content/emotion_dataset/sad/OAF_life_sad.wav|Say the word life
+/content/emotion_dataset/angry/YAF_phone_angry.wav|Say the word phone
+/content/emotion_dataset/angry/OAF_love_angry.wav|Say the word love
+/content/emotion_dataset/angry/OAF_gap_angry.wav|Say the word gap
+/content/emotion_dataset/fear/03-01-06-01-01-02-05.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_have_sad.wav|Say the word have
+/content/emotion_dataset/fear/OAF_five_fear.wav|Say the word five
+/content/emotion_dataset/fear/OAF_keg_fear.wav|Say the word keg
+/content/emotion_dataset/happy/YAF_white_happy.wav|Say the word white
+/content/emotion_dataset/fear/YAF_tool_fear.wav|Say the word tool
+/content/emotion_dataset/sad/YAF_said_sad.wav|Say the word said
+/content/emotion_dataset/fear/YAF_keen_fear.wav|Say the word keen
+/content/emotion_dataset/angry/OAF_pain_angry.wav|Say the word pain
+/content/emotion_dataset/angry/YAF_rat_angry.wav|Say the word rat
+/content/emotion_dataset/fear/OAF_yearn_fear.wav|Say the word yearn
+/content/emotion_dataset/fear/03-01-06-01-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_fall_neutral.wav|Say the word fall
+/content/emotion_dataset/angry/YAF_dead_angry.wav|Say the word dead
+/content/emotion_dataset/happy/OAF_love_happy.wav|Say the word love
+/content/emotion_dataset/neutral/YAF_live_neutral.wav|Say the word live
+/content/emotion_dataset/fear/03-01-06-02-02-01-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-02-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_rose_angry.wav|Say the word rose
+/content/emotion_dataset/neutral/OAF_make_neutral.wav|Say the word make
+/content/emotion_dataset/fear/03-01-06-01-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_shout_neutral.wav|Say the word shout
+/content/emotion_dataset/angry/OAF_ring_angry.wav|Say the word ring
+/content/emotion_dataset/neutral/03-01-01-01-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_vine_angry.wav|Say the word vine
+/content/emotion_dataset/angry/OAF_white_angry.wav|Say the word white
+/content/emotion_dataset/angry/YAF_dodge_angry.wav|Say the word dodge
+/content/emotion_dataset/angry/03-01-05-01-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_gap_neutral.wav|Say the word gap
+/content/emotion_dataset/happy/03-01-03-01-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_came_fear.wav|Say the word came
+/content/emotion_dataset/happy/OAF_white_happy.wav|Say the word white
+/content/emotion_dataset/happy/OAF_boat_happy.wav|Say the word boat
+/content/emotion_dataset/sad/OAF_raid_sad.wav|Say the word raid
+/content/emotion_dataset/neutral/YAF_date_neutral.wav|Say the word date
+/content/emotion_dataset/fear/YAF_mode_fear.wav|Say the word mode
+/content/emotion_dataset/sad/YAF_thought_sad.wav|Say the word thought
+/content/emotion_dataset/neutral/YAF_south_neutral.wav|Say the word south
+/content/emotion_dataset/angry/YAF_hall_angry.wav|Say the word hall
+/content/emotion_dataset/sad/03-01-04-02-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_tell_neutral.wav|Say the word tell
+/content/emotion_dataset/neutral/OAF_burn_neutral.wav|Say the word burn
+/content/emotion_dataset/neutral/YAF_goal_neutral.wav|Say the word goal
+/content/emotion_dataset/neutral/YAF_wire_neutral.wav|Say the word wire
+/content/emotion_dataset/happy/OAF_take_happy.wav|Say the word take
+/content/emotion_dataset/sad/03-01-04-02-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_check_angry.wav|Say the word check
+/content/emotion_dataset/sad/OAF_vine_sad.wav|Say the word vine
+/content/emotion_dataset/fear/OAF_fail_fear.wav|Say the word fail
+/content/emotion_dataset/sad/YAF_fit_sad.wav|Say the word fit
+/content/emotion_dataset/happy/03-01-03-01-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_hire_sad.wav|Say the word hire
+/content/emotion_dataset/neutral/03-01-01-01-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_luck_angry.wav|Say the word luck
+/content/emotion_dataset/happy/YAF_lot_happy.wav|Say the word lot
+/content/emotion_dataset/neutral/YAF_hush_neutral.wav|Say the word hush
+/content/emotion_dataset/fear/03-01-06-01-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-02-16.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_yearn_angry.wav|Say the word yearn
+/content/emotion_dataset/sad/03-01-04-01-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_time_angry.wav|Say the word time
+/content/emotion_dataset/happy/03-01-03-01-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_wash_fear.wav|Say the word wash
+/content/emotion_dataset/neutral/03-01-01-01-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-02-02-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_judge_fear.wav|Say the word judge
+/content/emotion_dataset/angry/OAF_lid_angry.wav|Say the word lid
+/content/emotion_dataset/sad/03-01-04-01-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_wire_happy.wav|Say the word wire
+/content/emotion_dataset/angry/03-01-05-02-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_cab_angry.wav|Say the word cab
+/content/emotion_dataset/fear/OAF_mouse_fear.wav|Say the word mouse
+/content/emotion_dataset/fear/03-01-06-01-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_long_neutral.wav|Say the word long
+/content/emotion_dataset/neutral/YAF_voice_neutral.wav|Say the word voice
+/content/emotion_dataset/fear/YAF_date_fear.wav|Say the word date
+/content/emotion_dataset/angry/YAF_whip_angry.wav|Say the word whip
+/content/emotion_dataset/happy/OAF_doll_happy.wav|Say the word doll
+/content/emotion_dataset/happy/YAF_reach_happy.wav|Say the word reach
+/content/emotion_dataset/happy/YAF_tape_happy.wav|Say the word tape
+/content/emotion_dataset/fear/OAF_ring_fear.wav|Say the word ring
+/content/emotion_dataset/angry/YAF_mill_angry.wav|Say the word mill
+/content/emotion_dataset/angry/OAF_shirt_angry.wav|Say the word shirt
+/content/emotion_dataset/neutral/OAF_read_neutral.wav|Say the word read
+/content/emotion_dataset/happy/OAF_deep_happy.wav|Say the word deep
+/content/emotion_dataset/fear/YAF_gin_fear.wav|Say the word gin
+/content/emotion_dataset/neutral/OAF_good_neutral.wav|Say the word good
+/content/emotion_dataset/angry/03-01-05-02-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_lore_neutral.wav|Say the word lore
+/content/emotion_dataset/neutral/OAF_time_neutral.wav|Say the word time
+/content/emotion_dataset/neutral/YAF_ring_neutral.wav|Say the word ring
+/content/emotion_dataset/sad/YAF_met_sad.wav|Say the word met
+/content/emotion_dataset/happy/YAF_live_happy.wav|Say the word live
+/content/emotion_dataset/happy/03-01-03-02-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_sell_neutral.wav|Say the word sell
+/content/emotion_dataset/angry/03-01-05-01-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_rain_sad.wav|Say the word rain
+/content/emotion_dataset/neutral/YAF_lean_neutral.wav|Say the word lean
+/content/emotion_dataset/fear/YAF_thin_fear.wav|Say the word thin
+/content/emotion_dataset/fear/OAF_rain_fear.wav|Say the word rain
+/content/emotion_dataset/sad/YAF_check_sad.wav|Say the word check
+/content/emotion_dataset/sad/03-01-04-01-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_tape_fear.wav|Say the word tape
+/content/emotion_dataset/angry/OAF_third_angry.wav|Say the word third
+/content/emotion_dataset/sad/03-01-04-01-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_take_sad.wav|Say the word take
+/content/emotion_dataset/fear/YAF_road_fear.wav|Say the word road
+/content/emotion_dataset/angry/YAF_lore_angry.wav|Say the word lore
+/content/emotion_dataset/sad/OAF_hate_sad.wav|Say the word hate
+/content/emotion_dataset/angry/OAF_yearn_angry.wav|Say the word yearn
+/content/emotion_dataset/neutral/OAF_neat_neutral.wav|Say the word neat
+/content/emotion_dataset/fear/03-01-06-01-02-01-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_hurl_sad.wav|Say the word hurl
+/content/emotion_dataset/angry/YAF_gaze_angry.wav|Say the word gaze
+/content/emotion_dataset/happy/OAF_shack_happy.wav|Say the word shack
+/content/emotion_dataset/fear/OAF_learn_fear.wav|Say the word learn
+/content/emotion_dataset/sad/03-01-04-01-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_soup_sad.wav|Say the word soup
+/content/emotion_dataset/neutral/YAF_mouse_neutral.wav|Say the word mouse
+/content/emotion_dataset/angry/03-01-05-02-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_rough_fear.wav|Say the word rough
+/content/emotion_dataset/angry/03-01-05-02-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-02-02-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_page_sad.wav|Say the word page
+/content/emotion_dataset/fear/OAF_pass_fear.wav|Say the word pass
+/content/emotion_dataset/happy/03-01-03-02-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_neat_sad.wav|Say the word neat
+/content/emotion_dataset/happy/YAF_mob_happy.wav|Say the word mob
+/content/emotion_dataset/sad/03-01-04-02-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-02-01-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_vine_angry.wav|Say the word vine
+/content/emotion_dataset/sad/03-01-04-01-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_rush_fear.wav|Say the word rush
+/content/emotion_dataset/happy/YAF_wheat_happy.wav|Say the word wheat
+/content/emotion_dataset/happy/OAF_tire_happy.wav|Say the word tire
+/content/emotion_dataset/sad/YAF_book_sad.wav|Say the word book
+/content/emotion_dataset/sad/YAF_make_sad.wav|Say the word make
+/content/emotion_dataset/sad/YAF_deep_sad.wav|Say the word deep
+/content/emotion_dataset/fear/OAF_burn_fear.wav|Say the word burn
+/content/emotion_dataset/neutral/YAF_dog_neutral.wav|Say the word dog
+/content/emotion_dataset/happy/OAF_such_happy.wav|Say the word such
+/content/emotion_dataset/neutral/OAF_gun_neutral.wav|Say the word gun
+/content/emotion_dataset/sad/YAF_luck_sad.wav|Say the word luck
+/content/emotion_dataset/angry/03-01-05-01-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_hate_neutral.wav|Say the word hate
+/content/emotion_dataset/neutral/YAF_chalk_neutral.wav|Say the word chalk
+/content/emotion_dataset/sad/03-01-04-01-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_phone_angry.wav|Say the word phone
+/content/emotion_dataset/neutral/OAF_goal_neutral.wav|Say the word goal
+/content/emotion_dataset/happy/YAF_love_happy.wav|Say the word love
+/content/emotion_dataset/happy/OAF_gin_happy.wav|Say the word gin
+/content/emotion_dataset/neutral/YAF_hit_neutral.wav|Say the word hit
+/content/emotion_dataset/happy/OAF_hire_happy.wav|Say the word hire
+/content/emotion_dataset/fear/03-01-06-01-01-02-20.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_perch_fear.wav|Say the word perch
+/content/emotion_dataset/sad/03-01-04-02-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_pole_happy.wav|Say the word pole
+/content/emotion_dataset/sad/YAF_shirt_sad.wav|Say the word shirt
+/content/emotion_dataset/fear/03-01-06-02-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_haze_happy.wav|Say the word haze
+/content/emotion_dataset/angry/YAF_mess_angry.wav|Say the word mess
+/content/emotion_dataset/angry/OAF_bean_angry.wav|Say the word bean
+/content/emotion_dataset/happy/YAF_team_happy.wav|Say the word team
+/content/emotion_dataset/sad/YAF_note_sad.wav|Say the word note
+/content/emotion_dataset/sad/OAF_wheat_sad.wav|Say the word wheat
+/content/emotion_dataset/neutral/YAF_nag_neutral.wav|Say the word nag
+/content/emotion_dataset/happy/YAF_gap_happy.wav|Say the word gap
+/content/emotion_dataset/angry/OAF_seize_angry.wav|Say the word seize
+/content/emotion_dataset/sad/YAF_pike_sad.wav|Say the word pike
+/content/emotion_dataset/neutral/03-01-01-01-02-02-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_tough_angry.wav|Say the word tough
+/content/emotion_dataset/neutral/YAF_young_neutral.wav|Say the word young
+/content/emotion_dataset/sad/OAF_deep_sad.wav|Say the word deep
+/content/emotion_dataset/angry/OAF_wash_angry.wav|Say the word wash
+/content/emotion_dataset/angry/03-01-05-02-02-02-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_near_angry.wav|Say the word near
+/content/emotion_dataset/happy/YAF_bone_happy.wav|Say the word bone
+/content/emotion_dataset/neutral/YAF_shack_neutral.wav|Say the word shack
+/content/emotion_dataset/angry/OAF_bath_angry.wav|Say the word bath
+/content/emotion_dataset/fear/OAF_thumb_fear.wav|Say the word thumb
+/content/emotion_dataset/sad/03-01-04-01-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_phone_neutral.wav|Say the word phone
+/content/emotion_dataset/happy/YAF_mode_happy.wav|Say the word mode
+/content/emotion_dataset/happy/YAF_fat_happy.wav|Say the word fat
+/content/emotion_dataset/neutral/YAF_bone_neutral.wav|Say the word bone
+/content/emotion_dataset/angry/OAF_raise_angry.wav|Say the word raise
+/content/emotion_dataset/happy/03-01-03-02-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_base_neutral.wav|Say the word base
+/content/emotion_dataset/fear/03-01-06-01-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_whip_sad.wav|Say the word whip
+/content/emotion_dataset/angry/OAF_door_angry.wav|Say the word door
+/content/emotion_dataset/neutral/OAF_cool_neutral.wav|Say the word cool
+/content/emotion_dataset/fear/YAF_raid_fear.wav|Say the word raid
+/content/emotion_dataset/happy/YAF_mouse_happy.wav|Say the word mouse
+/content/emotion_dataset/fear/YAF_take_fear.wav|Say the word take
+/content/emotion_dataset/happy/YAF_gun_happy.wav|Say the word gun
+/content/emotion_dataset/fear/03-01-06-02-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_numb_happy.wav|Say the word numb
+/content/emotion_dataset/sad/OAF_gun_sad.wav|Say the word gun
+/content/emotion_dataset/happy/OAF_rot_happy.wav|Say the word rot
+/content/emotion_dataset/happy/03-01-03-01-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_said_fear.wav|Say the word said
+/content/emotion_dataset/neutral/OAF_hush_neutral.wav|Say the word hush
+/content/emotion_dataset/sad/YAF_mop_sad.wav|Say the word mop
+/content/emotion_dataset/angry/03-01-05-02-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_kill_angry.wav|Say the word kill
+/content/emotion_dataset/angry/OAF_dab_angry.wav|Say the word dab
+/content/emotion_dataset/fear/YAF_late_fear.wav|Say the word late
+/content/emotion_dataset/fear/03-01-06-02-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_rat_neutral.wav|Say the word rat
+/content/emotion_dataset/happy/YAF_tire_happy.wav|Say the word tire
+/content/emotion_dataset/fear/OAF_sell_fear.wav|Say the word sell
+/content/emotion_dataset/angry/OAF_life_angry.wav|Say the word life
+/content/emotion_dataset/happy/OAF_live_happy.wav|Say the word live
+/content/emotion_dataset/happy/03-01-03-01-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_bath_neutral.wav|Say the word bath
+/content/emotion_dataset/angry/YAF_lease_angry.wav|Say the word lease
+/content/emotion_dataset/happy/03-01-03-02-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_phone_fear.wav|Say the word phone
+/content/emotion_dataset/fear/OAF_nag_fear.wav|Say the word nag
+/content/emotion_dataset/fear/YAF_have_fear.wav|Say the word have
+/content/emotion_dataset/neutral/YAF_fat_neutral.wav|Say the word fat
+/content/emotion_dataset/fear/OAF_such_fear.wav|Say the word such
+/content/emotion_dataset/happy/03-01-03-01-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_numb_fear.wav|Say the word numb
+/content/emotion_dataset/sad/YAF_jug_sad.wav|Say the word jug
+/content/emotion_dataset/angry/OAF_thought_angry.wav|Say the word thought
+/content/emotion_dataset/sad/YAF_mode_sad.wav|Say the word mode
+/content/emotion_dataset/angry/OAF_late_angry.wav|Say the word late
+/content/emotion_dataset/neutral/YAF_which_neutral.wav|Say the word which
+/content/emotion_dataset/angry/03-01-05-01-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_pole_angry.wav|Say the word pole
+/content/emotion_dataset/happy/OAF_hash_happy.wav|Say the word hash
+/content/emotion_dataset/sad/03-01-04-02-01-01-15.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_hit_fear.wav|Say the word hit
+/content/emotion_dataset/angry/OAF_mop_angry.wav|Say the word mop
+/content/emotion_dataset/happy/YAF_lore_happy.wav|Say the word lore
+/content/emotion_dataset/neutral/OAF_shack_neutral.wav|Say the word shack
+/content/emotion_dataset/neutral/OAF_dime_neutral.wav|Say the word dime
+/content/emotion_dataset/fear/03-01-06-02-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_book_neutral.wav|Say the word book
+/content/emotion_dataset/happy/OAF_lease_happy.wav|Say the word lease
+/content/emotion_dataset/sad/03-01-04-01-02-01-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_talk_neutral.wav|Say the word talk
+/content/emotion_dataset/angry/OAF_sell_angry.wav|Say the word sell
+/content/emotion_dataset/sad/YAF_yes_sad.wav|Say the word yes
+/content/emotion_dataset/happy/OAF_week_happy.wav|Say the word week
+/content/emotion_dataset/happy/YAF_ripe_happy.wav|Say the word ripe
+/content/emotion_dataset/angry/OAF_cheek_angry.wav|Say the word cheek
+/content/emotion_dataset/happy/OAF_gap_happy.wav|Say the word gap
+/content/emotion_dataset/sad/03-01-04-01-01-02-10.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_hire_fear.wav|Say the word hire
+/content/emotion_dataset/neutral/OAF_bean_neutral.wav|Say the word bean
+/content/emotion_dataset/fear/YAF_thumb_fear.wav|Say the word thumb
+/content/emotion_dataset/fear/03-01-06-02-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_white_neutral.wav|Say the word white
+/content/emotion_dataset/happy/OAF_gaze_happy.wav|Say the word gaze
+/content/emotion_dataset/fear/03-01-06-02-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_kite_fear.wav|Say the word kite
+/content/emotion_dataset/fear/03-01-06-01-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_vote_angry.wav|Say the word vote
+/content/emotion_dataset/neutral/03-01-01-01-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_get_fear.wav|Say the word get
+/content/emotion_dataset/happy/OAF_thumb_happy.wav|Say the word thumb
+/content/emotion_dataset/neutral/OAF_cause_neutral.wav|Say the word cause
+/content/emotion_dataset/happy/03-01-03-02-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_wash_sad.wav|Say the word wash
+/content/emotion_dataset/happy/OAF_shawl_happy.wav|Say the word shawl
+/content/emotion_dataset/angry/OAF_mess_angry.wav|Say the word mess
+/content/emotion_dataset/fear/03-01-06-01-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_hall_happy.wav|Say the word hall
+/content/emotion_dataset/sad/OAF_sail_sad.wav|Say the word sail
+/content/emotion_dataset/sad/YAF_wire_sad.wav|Say the word wire
+/content/emotion_dataset/sad/03-01-04-01-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_which_happy.wav|Say the word which
+/content/emotion_dataset/fear/YAF_rag_fear.wav|Say the word rag
+/content/emotion_dataset/fear/OAF_chat_fear.wav|Say the word chat
+/content/emotion_dataset/angry/OAF_kick_angry.wav|Say the word kick
+/content/emotion_dataset/angry/03-01-05-01-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_hurl_neutral.wav|Say the word hurl
+/content/emotion_dataset/fear/YAF_when_fear.wav|Say the word when
+/content/emotion_dataset/sad/03-01-04-01-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_bath_happy.wav|Say the word bath
+/content/emotion_dataset/happy/03-01-03-02-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_raid_neutral.wav|Say the word raid
+/content/emotion_dataset/neutral/YAF_wag_neutral.wav|Say the word wag
+/content/emotion_dataset/neutral/YAF_lose_neutral.wav|Say the word lose
+/content/emotion_dataset/angry/OAF_ton_angry.wav|Say the word ton
+/content/emotion_dataset/sad/YAF_tell_sad.wav|Say the word tell
+/content/emotion_dataset/sad/OAF_young_sad.wav|Say the word young
+/content/emotion_dataset/fear/OAF_hurl_fear.wav|Say the word hurl
+/content/emotion_dataset/neutral/OAF_dead_neutral.wav|Say the word dead
+/content/emotion_dataset/sad/OAF_soap_sad.wav|Say the word soap
+/content/emotion_dataset/sad/03-01-04-01-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_lot_angry.wav|Say the word lot
+/content/emotion_dataset/neutral/OAF_turn_neutral.wav|Say the word turn
+/content/emotion_dataset/neutral/YAF_dodge_neutral.wav|Say the word dodge
+/content/emotion_dataset/angry/OAF_cause_angry.wav|Say the word cause
+/content/emotion_dataset/happy/YAF_turn_happy.wav|Say the word turn
+/content/emotion_dataset/angry/YAF_peg_angry.wav|Say the word peg
+/content/emotion_dataset/happy/OAF_juice_happy.wav|Say the word juice
+/content/emotion_dataset/fear/OAF_peg_fear.wav|Say the word peg
+/content/emotion_dataset/sad/OAF_lore_sad.wav|Say the word lore
+/content/emotion_dataset/neutral/YAF_gas_neutral.wav|Say the word gas
+/content/emotion_dataset/sad/03-01-04-01-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_seize_angry.wav|Say the word seize
+/content/emotion_dataset/angry/YAF_love_angry.wav|Say the word love
+/content/emotion_dataset/happy/OAF_rat_happy.wav|Say the word rat
+/content/emotion_dataset/sad/03-01-04-01-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_cool_fear.wav|Say the word cool
+/content/emotion_dataset/happy/OAF_rose_happy.wav|Say the word rose
+/content/emotion_dataset/neutral/03-01-01-01-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_nag_angry.wav|Say the word nag
+/content/emotion_dataset/happy/YAF_chalk_happy.wav|Say the word chalk
+/content/emotion_dataset/angry/OAF_bought_angry.wav|Say the word bought
+/content/emotion_dataset/sad/OAF_time_sad.wav|Say the word time
+/content/emotion_dataset/neutral/YAF_dip_neutral.wav|Say the word dip
+/content/emotion_dataset/angry/03-01-05-02-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_page_neutral.wav|Say the word page
+/content/emotion_dataset/angry/03-01-05-01-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_mood_happy.wav|Say the word mood
+/content/emotion_dataset/sad/YAF_chat_sad.wav|Say the word chat
+/content/emotion_dataset/angry/OAF_gun_angry.wav|Say the word gun
+/content/emotion_dataset/sad/03-01-04-02-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-02-02-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-01-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-02-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_live_angry.wav|Say the word live
+/content/emotion_dataset/fear/03-01-06-02-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_good_sad.wav|Say the word good
+/content/emotion_dataset/sad/03-01-04-01-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_third_sad.wav|Say the word third
+/content/emotion_dataset/sad/YAF_kick_sad.wav|Say the word kick
+/content/emotion_dataset/happy/03-01-03-01-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-02-02-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-02-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_tool_angry.wav|Say the word tool
+/content/emotion_dataset/angry/OAF_note_angry.wav|Say the word note
+/content/emotion_dataset/neutral/YAF_sure_neutral.wav|Say the word sure
+/content/emotion_dataset/sad/OAF_get_sad.wav|Say the word get
+/content/emotion_dataset/angry/OAF_shall_angry.wav|Say the word shall
+/content/emotion_dataset/happy/03-01-03-02-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_mood_fear.wav|Say the word mood
+/content/emotion_dataset/sad/YAF_ditch_sad.wav|Say the word ditch
+/content/emotion_dataset/neutral/YAF_hole_neutral.wav|Say the word hole
+/content/emotion_dataset/sad/OAF_voice_sad.wav|Say the word voice
+/content/emotion_dataset/fear/OAF_bone_fear.wav|Say the word bone
+/content/emotion_dataset/sad/03-01-04-01-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_tape_happy.wav|Say the word tape
+/content/emotion_dataset/fear/OAF_chair_fear.wav|Say the word chair
+/content/emotion_dataset/happy/YAF_lease_happy.wav|Say the word lease
+/content/emotion_dataset/happy/YAF_voice_happy.wav|Say the word voice
+/content/emotion_dataset/angry/YAF_cool_angry.wav|Say the word cool
+/content/emotion_dataset/sad/OAF_hit_sad.wav|Say the word hit
+/content/emotion_dataset/sad/03-01-04-01-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-01-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_chief_fear.wav|Say the word chief
+/content/emotion_dataset/sad/OAF_chain_sad.wav|Say the word chain
+/content/emotion_dataset/sad/YAF_mess_sad.wav|Say the word mess
+/content/emotion_dataset/sad/OAF_youth_sad.wav|Say the word youth
+/content/emotion_dataset/happy/OAF_goal_happy.wav|Say the word goal
+/content/emotion_dataset/neutral/YAF_knock_neutral.wav|Say the word knock
+/content/emotion_dataset/fear/YAF_rat_fear.wav|Say the word rat
+/content/emotion_dataset/angry/03-01-05-01-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_such_sad.wav|Say the word such
+/content/emotion_dataset/fear/03-01-06-01-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_rag_neutral.wav|Say the word rag
+/content/emotion_dataset/neutral/YAF_death_neutral.wav|Say the word death
+/content/emotion_dataset/neutral/OAF_kill_neutral.wav|Say the word kill
+/content/emotion_dataset/happy/YAF_puff_happy.wav|Say the word puff
+/content/emotion_dataset/fear/03-01-06-02-02-02-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_hash_fear.wav|Say the word hash
+/content/emotion_dataset/fear/YAF_shawl_fear.wav|Say the word shawl
+/content/emotion_dataset/happy/OAF_cab_happy.wav|Say the word cab
+/content/emotion_dataset/sad/03-01-04-02-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_tire_sad.wav|Say the word tire
+/content/emotion_dataset/angry/03-01-05-02-01-02-17.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_limb_angry.wav|Say the word limb
+/content/emotion_dataset/sad/YAF_vine_sad.wav|Say the word vine
+/content/emotion_dataset/happy/03-01-03-02-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-02-01-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_base_angry.wav|Say the word base
+/content/emotion_dataset/sad/03-01-04-01-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_hush_fear.wav|Say the word hush
+/content/emotion_dataset/neutral/OAF_get_neutral.wav|Say the word get
+/content/emotion_dataset/angry/OAF_moon_angry.wav|Say the word moon
+/content/emotion_dataset/neutral/OAF_mill_neutral.wav|Say the word mill
+/content/emotion_dataset/sad/OAF_judge_sad.wav|Say the word judge
+/content/emotion_dataset/happy/03-01-03-01-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_neat_sad.wav|Say the word neat
+/content/emotion_dataset/neutral/OAF_merge_neutral.wav|Say the word merge
+/content/emotion_dataset/sad/OAF_laud_sad.wav|Say the word laud
+/content/emotion_dataset/angry/OAF_week_angry.wav|Say the word week
+/content/emotion_dataset/angry/YAF_merge_angry.wav|Say the word merge
+/content/emotion_dataset/angry/OAF_rag_angry.wav|Say the word rag
+/content/emotion_dataset/fear/YAF_tire_fear.wav|Say the word tire
+/content/emotion_dataset/happy/OAF_when_happy.wav|Say the word when
+/content/emotion_dataset/sad/OAF_death_sad.wav|Say the word death
+/content/emotion_dataset/angry/03-01-05-01-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_knock_neutral.wav|Say the word knock
+/content/emotion_dataset/sad/03-01-04-02-02-02-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_kick_fear.wav|Say the word kick
+/content/emotion_dataset/happy/YAF_book_happy.wav|Say the word book
+/content/emotion_dataset/fear/YAF_thought_fear.wav|Say the word thought
+/content/emotion_dataset/fear/03-01-06-02-02-01-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_cool_happy.wav|Say the word cool
+/content/emotion_dataset/angry/YAF_dog_angry.wav|Say the word dog
+/content/emotion_dataset/sad/03-01-04-02-01-02-05.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_note_happy.wav|Say the word note
+/content/emotion_dataset/sad/YAF_reach_sad.wav|Say the word reach
+/content/emotion_dataset/neutral/YAF_far_neutral.wav|Say the word far
+/content/emotion_dataset/happy/03-01-03-02-02-02-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_ripe_happy.wav|Say the word ripe
+/content/emotion_dataset/fear/YAF_seize_fear.wav|Say the word seize
+/content/emotion_dataset/neutral/YAF_gap_neutral.wav|Say the word gap
+/content/emotion_dataset/happy/OAF_far_happy.wav|Say the word far
+/content/emotion_dataset/sad/03-01-04-02-01-02-17.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_sure_neutral.wav|Say the word sure
+/content/emotion_dataset/fear/YAF_talk_fear.wav|Say the word talk
+/content/emotion_dataset/neutral/YAF_tough_neutral.wav|Say the word tough
+/content/emotion_dataset/happy/03-01-03-01-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_ditch_neutral.wav|Say the word ditch
+/content/emotion_dataset/neutral/OAF_mode_neutral.wav|Say the word mode
+/content/emotion_dataset/happy/YAF_calm_happy.wav|Say the word calm
+/content/emotion_dataset/angry/YAF_chair_angry.wav|Say the word chair
+/content/emotion_dataset/neutral/OAF_rough_neutral.wav|Say the word rough
+/content/emotion_dataset/neutral/YAF_rush_neutral.wav|Say the word rush
+/content/emotion_dataset/happy/OAF_germ_happy.wav|Say the word germ
+/content/emotion_dataset/neutral/YAF_mood_neutral.wav|Say the word mood
+/content/emotion_dataset/sad/03-01-04-01-02-01-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_chair_neutral.wav|Say the word chair
+/content/emotion_dataset/angry/YAF_void_angry.wav|Say the word void
+/content/emotion_dataset/fear/YAF_ring_fear.wav|Say the word ring
+/content/emotion_dataset/angry/YAF_vote_angry.wav|Say the word vote
+/content/emotion_dataset/fear/OAF_lose_fear.wav|Say the word lose
+/content/emotion_dataset/fear/03-01-06-02-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-01-02-01-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_mop_fear.wav|Say the word mop
+/content/emotion_dataset/fear/YAF_rain_fear.wav|Say the word rain
+/content/emotion_dataset/angry/03-01-05-02-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_raid_sad.wav|Say the word raid
+/content/emotion_dataset/sad/YAF_life_sad.wav|Say the word life
+/content/emotion_dataset/sad/YAF_germ_sad.wav|Say the word germ
+/content/emotion_dataset/sad/YAF_should_sad.wav|Say the word should
+/content/emotion_dataset/sad/OAF_gaze_sad.wav|Say the word gaze
+/content/emotion_dataset/sad/OAF_kite_sad.wav|Say the word kite
+/content/emotion_dataset/happy/03-01-03-01-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_raise_neutral.wav|Say the word raise
+/content/emotion_dataset/angry/OAF_red_angry.wav|Say the word red
+/content/emotion_dataset/happy/OAF_pick_happy.wav|Say the word pick
+/content/emotion_dataset/fear/03-01-06-02-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_doll_neutral.wav|Say the word doll
+/content/emotion_dataset/neutral/OAF_hole_neutral.wav|Say the word hole
+/content/emotion_dataset/fear/OAF_book_fear.wav|Say the word book
+/content/emotion_dataset/neutral/OAF_which_neutral.wav|Say the word which
+/content/emotion_dataset/sad/YAF_rat_sad.wav|Say the word rat
+/content/emotion_dataset/sad/03-01-04-02-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_kill_sad.wav|Say the word kill
+/content/emotion_dataset/angry/YAF_gas_angry.wav|Say the word gas
+/content/emotion_dataset/angry/YAF_wire_angry.wav|Say the word wire
+/content/emotion_dataset/sad/YAF_witch_sad.wav|Say the word witch
+/content/emotion_dataset/fear/YAF_doll_fear.wav|Say the word doll
+/content/emotion_dataset/sad/OAF_hush_sad.wav|Say the word hush
+/content/emotion_dataset/sad/OAF_seize_sad.wav|Say the word seize
+/content/emotion_dataset/angry/YAF_door_angry.wav|Say the word door
+/content/emotion_dataset/happy/03-01-03-02-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_team_neutral.wav|Say the word team
+/content/emotion_dataset/angry/YAF_tire_angry.wav|Say the word tire
+/content/emotion_dataset/sad/OAF_bean_sad.wav|Say the word bean
+/content/emotion_dataset/fear/03-01-06-02-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_pearl_sad.wav|Say the word pearl
+/content/emotion_dataset/happy/03-01-03-01-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_turn_happy.wav|Say the word turn
+/content/emotion_dataset/sad/03-01-04-02-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_jar_happy.wav|Say the word jar
+/content/emotion_dataset/happy/YAF_limb_happy.wav|Say the word limb
+/content/emotion_dataset/neutral/OAF_vote_neutral.wav|Say the word vote
+/content/emotion_dataset/sad/OAF_such_sad.wav|Say the word such
+/content/emotion_dataset/angry/YAF_shawl_angry.wav|Say the word shawl
+/content/emotion_dataset/sad/YAF_have_sad.wav|Say the word have
+/content/emotion_dataset/happy/03-01-03-02-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_long_angry.wav|Say the word long
+/content/emotion_dataset/angry/03-01-05-02-01-01-17.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_rough_sad.wav|Say the word rough
+/content/emotion_dataset/neutral/OAF_have_neutral.wav|Say the word have
+/content/emotion_dataset/happy/YAF_young_happy.wav|Say the word young
+/content/emotion_dataset/sad/OAF_food_sad.wav|Say the word food
+/content/emotion_dataset/neutral/YAF_have_neutral.wav|Say the word have
+/content/emotion_dataset/happy/YAF_chair_happy.wav|Say the word chair
+/content/emotion_dataset/fear/03-01-06-02-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_size_sad.wav|Say the word size
+/content/emotion_dataset/happy/YAF_far_happy.wav|Say the word far
+/content/emotion_dataset/neutral/OAF_wife_neutral.wav|Say the word wife
+/content/emotion_dataset/happy/OAF_chair_happy.wav|Say the word chair
+/content/emotion_dataset/angry/03-01-05-01-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_limb_happy.wav|Say the word limb
+/content/emotion_dataset/neutral/YAF_get_neutral.wav|Say the word get
+/content/emotion_dataset/happy/YAF_tool_happy.wav|Say the word tool
+/content/emotion_dataset/neutral/YAF_food_neutral.wav|Say the word food
+/content/emotion_dataset/sad/03-01-04-01-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_voice_fear.wav|Say the word voice
+/content/emotion_dataset/sad/YAF_judge_sad.wav|Say the word judge
+/content/emotion_dataset/neutral/03-01-01-01-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-01-02-04.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_void_fear.wav|Say the word void
+/content/emotion_dataset/fear/03-01-06-02-02-02-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_shall_sad.wav|Say the word shall
+/content/emotion_dataset/neutral/YAF_burn_neutral.wav|Say the word burn
+/content/emotion_dataset/neutral/03-01-01-01-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_hash_angry.wav|Say the word hash
+/content/emotion_dataset/happy/OAF_fail_happy.wav|Say the word fail
+/content/emotion_dataset/neutral/OAF_pool_neutral.wav|Say the word pool
+/content/emotion_dataset/happy/YAF_yearn_happy.wav|Say the word yearn
+/content/emotion_dataset/happy/YAF_hire_happy.wav|Say the word hire
+/content/emotion_dataset/neutral/OAF_soup_neutral.wav|Say the word soup
+/content/emotion_dataset/neutral/03-01-01-01-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_void_neutral.wav|Say the word void
+/content/emotion_dataset/fear/03-01-06-02-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_jail_happy.wav|Say the word jail
+/content/emotion_dataset/happy/03-01-03-01-02-01-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_calm_happy.wav|Say the word calm
+/content/emotion_dataset/fear/YAF_half_fear.wav|Say the word half
+/content/emotion_dataset/fear/03-01-06-01-01-01-11.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_came_fear.wav|Say the word came
+/content/emotion_dataset/happy/03-01-03-02-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_laud_happy.wav|Say the word laud
+/content/emotion_dataset/fear/YAF_merge_fear.wav|Say the word merge
+/content/emotion_dataset/sad/YAF_dime_sad.wav|Say the word dime
+/content/emotion_dataset/fear/03-01-06-01-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_chalk_angry.wav|Say the word chalk
+/content/emotion_dataset/fear/YAF_haze_fear.wav|Say the word haze
+/content/emotion_dataset/fear/03-01-06-01-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_met_fear.wav|Say the word met
+/content/emotion_dataset/sad/OAF_live_sad.wav|Say the word live
+/content/emotion_dataset/neutral/OAF_chief_neutral.wav|Say the word chief
+/content/emotion_dataset/angry/03-01-05-02-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_jar_fear.wav|Say the word jar
+/content/emotion_dataset/fear/OAF_goal_fear.wav|Say the word goal
+/content/emotion_dataset/happy/03-01-03-02-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_jug_angry.wav|Say the word jug
+/content/emotion_dataset/fear/YAF_reach_fear.wav|Say the word reach
+/content/emotion_dataset/neutral/YAF_time_neutral.wav|Say the word time
+/content/emotion_dataset/neutral/YAF_read_neutral.wav|Say the word read
+/content/emotion_dataset/neutral/03-01-01-01-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_home_neutral.wav|Say the word home
+/content/emotion_dataset/fear/03-01-06-02-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_pike_neutral.wav|Say the word pike
+/content/emotion_dataset/fear/OAF_rough_fear.wav|Say the word rough
+/content/emotion_dataset/neutral/03-01-01-01-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_tell_happy.wav|Say the word tell
+/content/emotion_dataset/neutral/OAF_should_neutral.wav|Say the word should
+/content/emotion_dataset/sad/03-01-04-02-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_bean_angry.wav|Say the word bean
+/content/emotion_dataset/sad/03-01-04-01-02-02-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_talk_neutral.wav|Say the word talk
+/content/emotion_dataset/fear/OAF_seize_fear.wav|Say the word seize
+/content/emotion_dataset/sad/OAF_limb_sad.wav|Say the word limb
+/content/emotion_dataset/angry/OAF_kite_angry.wav|Say the word kite
+/content/emotion_dataset/angry/03-01-05-02-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_haze_neutral.wav|Say the word haze
+/content/emotion_dataset/neutral/OAF_learn_neutral.wav|Say the word learn
+/content/emotion_dataset/fear/OAF_chalk_fear.wav|Say the word chalk
+/content/emotion_dataset/happy/YAF_pass_happy.wav|Say the word pass
+/content/emotion_dataset/sad/YAF_seize_sad.wav|Say the word seize
+/content/emotion_dataset/happy/03-01-03-01-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_juice_fear.wav|Say the word juice
+/content/emotion_dataset/angry/YAF_laud_angry.wav|Say the word laud
+/content/emotion_dataset/angry/YAF_mop_angry.wav|Say the word mop
+/content/emotion_dataset/sad/YAF_calm_sad.wav|Say the word calm
+/content/emotion_dataset/neutral/YAF_turn_neutral.wav|Say the word turn
+/content/emotion_dataset/angry/YAF_pad_angry.wav|Say the word pad
+/content/emotion_dataset/happy/03-01-03-01-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_soup_fear.wav|Say the word soup
+/content/emotion_dataset/sad/YAF_hit_sad.wav|Say the word hit
+/content/emotion_dataset/angry/03-01-05-02-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_mop_fear.wav|Say the word mop
+/content/emotion_dataset/angry/OAF_voice_angry.wav|Say the word voice
+/content/emotion_dataset/sad/OAF_tough_sad.wav|Say the word tough
+/content/emotion_dataset/sad/OAF_should_sad.wav|Say the word should
+/content/emotion_dataset/sad/OAF_came_sad.wav|Say the word came
+/content/emotion_dataset/happy/OAF_ton_happy.wav|Say the word ton
+/content/emotion_dataset/fear/YAF_jar_fear.wav|Say the word jar
+/content/emotion_dataset/angry/03-01-05-02-01-02-05.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_take_happy.wav|Say the word take
+/content/emotion_dataset/fear/OAF_far_fear.wav|Say the word far
+/content/emotion_dataset/fear/03-01-06-02-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_sure_happy.wav|Say the word sure
+/content/emotion_dataset/fear/YAF_hash_fear.wav|Say the word hash
+/content/emotion_dataset/angry/OAF_fall_angry.wav|Say the word fall
+/content/emotion_dataset/angry/OAF_wheat_angry.wav|Say the word wheat
+/content/emotion_dataset/angry/03-01-05-01-02-01-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_tip_happy.wav|Say the word tip
+/content/emotion_dataset/happy/03-01-03-01-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-02-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_team_angry.wav|Say the word team
+/content/emotion_dataset/happy/OAF_reach_happy.wav|Say the word reach
+/content/emotion_dataset/fear/03-01-06-02-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_loaf_angry.wav|Say the word loaf
+/content/emotion_dataset/sad/OAF_thought_sad.wav|Say the word thought
+/content/emotion_dataset/angry/OAF_fat_angry.wav|Say the word fat
+/content/emotion_dataset/neutral/OAF_beg_neutral.wav|Say the word beg
+/content/emotion_dataset/angry/03-01-05-01-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_size_neutral.wav|Say the word size
+/content/emotion_dataset/happy/YAF_jar_happy.wav|Say the word jar
+/content/emotion_dataset/angry/OAF_shack_angry.wav|Say the word shack
+/content/emotion_dataset/fear/YAF_gas_fear.wav|Say the word gas
+/content/emotion_dataset/fear/OAF_pole_fear.wav|Say the word pole
+/content/emotion_dataset/happy/YAF_shall_happy.wav|Say the word shall
+/content/emotion_dataset/neutral/OAF_far_neutral.wav|Say the word far
+/content/emotion_dataset/fear/03-01-06-02-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_keg_angry.wav|Say the word keg
+/content/emotion_dataset/sad/03-01-04-02-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_fall_neutral.wav|Say the word fall
+/content/emotion_dataset/angry/YAF_get_angry.wav|Say the word get
+/content/emotion_dataset/sad/03-01-04-01-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_tape_angry.wav|Say the word tape
+/content/emotion_dataset/fear/YAF_dime_fear.wav|Say the word dime
+/content/emotion_dataset/happy/YAF_join_happy.wav|Say the word join
+/content/emotion_dataset/fear/YAF_gun_fear.wav|Say the word gun
+/content/emotion_dataset/angry/OAF_pike_angry.wav|Say the word pike
+/content/emotion_dataset/sad/03-01-04-01-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_goose_angry.wav|Say the word goose
+/content/emotion_dataset/sad/03-01-04-02-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_calm_neutral.wav|Say the word calm
+/content/emotion_dataset/sad/YAF_dog_sad.wav|Say the word dog
+/content/emotion_dataset/angry/YAF_half_angry.wav|Say the word half
+/content/emotion_dataset/fear/YAF_rot_fear.wav|Say the word rot
+/content/emotion_dataset/happy/YAF_void_happy.wav|Say the word void
+/content/emotion_dataset/sad/YAF_gas_sad.wav|Say the word gas
+/content/emotion_dataset/fear/OAF_rose_fear.wav|Say the word rose
+/content/emotion_dataset/fear/03-01-06-01-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_hash_sad.wav|Say the word hash
+/content/emotion_dataset/neutral/YAF_shawl_neutral.wav|Say the word shawl
+/content/emotion_dataset/happy/YAF_talk_happy.wav|Say the word talk
+/content/emotion_dataset/neutral/OAF_door_neutral.wav|Say the word door
+/content/emotion_dataset/fear/YAF_juice_fear.wav|Say the word juice
+/content/emotion_dataset/happy/OAF_phone_happy.wav|Say the word phone
+/content/emotion_dataset/sad/OAF_jug_sad.wav|Say the word jug
+/content/emotion_dataset/neutral/OAF_rose_neutral.wav|Say the word rose
+/content/emotion_dataset/angry/YAF_juice_angry.wav|Say the word juice
+/content/emotion_dataset/fear/YAF_kite_fear.wav|Say the word kite
+/content/emotion_dataset/sad/YAF_bath_sad.wav|Say the word bath
+/content/emotion_dataset/fear/03-01-06-02-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_pain_happy.wav|Say the word pain
+/content/emotion_dataset/happy/YAF_ton_happy.wav|Say the word ton
+/content/emotion_dataset/sad/OAF_gin_sad.wav|Say the word gin
+/content/emotion_dataset/angry/OAF_wife_angry.wav|Say the word wife
+/content/emotion_dataset/happy/YAF_deep_happy.wav|Say the word deep
+/content/emotion_dataset/happy/YAF_judge_happy.wav|Say the word judge
+/content/emotion_dataset/neutral/OAF_wire_neutral.wav|Say the word wire
+/content/emotion_dataset/neutral/03-01-01-01-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_tell_neutral.wav|Say the word tell
+/content/emotion_dataset/sad/YAF_dip_sad.wav|Say the word dip
+/content/emotion_dataset/angry/YAF_such_angry.wav|Say the word such
+/content/emotion_dataset/angry/YAF_beg_angry.wav|Say the word beg
+/content/emotion_dataset/angry/YAF_make_angry.wav|Say the word make
+/content/emotion_dataset/angry/OAF_take_angry.wav|Say the word take
+/content/emotion_dataset/sad/03-01-04-02-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_late_neutral.wav|Say the word late
+/content/emotion_dataset/neutral/YAF_choice_neutral.wav|Say the word choice
+/content/emotion_dataset/happy/OAF_lot_happy.wav|Say the word lot
+/content/emotion_dataset/sad/OAF_knock_sad.wav|Say the word knock
+/content/emotion_dataset/neutral/YAF_mess_neutral.wav|Say the word mess
+/content/emotion_dataset/fear/YAF_wash_fear.wav|Say the word wash
+/content/emotion_dataset/happy/YAF_nice_happy.wav|Say the word nice
+/content/emotion_dataset/happy/YAF_learn_happy.wav|Say the word learn
+/content/emotion_dataset/fear/OAF_hate_fear.wav|Say the word hate
+/content/emotion_dataset/happy/03-01-03-02-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_team_sad.wav|Say the word team
+/content/emotion_dataset/angry/OAF_kill_angry.wav|Say the word kill
+/content/emotion_dataset/happy/OAF_life_happy.wav|Say the word life
+/content/emotion_dataset/neutral/OAF_bought_neutral.wav|Say the word bought
+/content/emotion_dataset/fear/YAF_home_fear.wav|Say the word home
+/content/emotion_dataset/fear/03-01-06-01-02-02-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_tire_neutral.wav|Say the word tire
+/content/emotion_dataset/sad/YAF_tape_sad.wav|Say the word tape
+/content/emotion_dataset/happy/YAF_late_happy.wav|Say the word late
+/content/emotion_dataset/angry/YAF_which_angry.wav|Say the word which
+/content/emotion_dataset/fear/OAF_bean_fear.wav|Say the word bean
+/content/emotion_dataset/neutral/YAF_pain_neutral.wav|Say the word pain
+/content/emotion_dataset/sad/YAF_bone_sad.wav|Say the word bone
+/content/emotion_dataset/fear/OAF_match_fear.wav|Say the word match
+/content/emotion_dataset/fear/OAF_turn_fear.wav|Say the word turn
+/content/emotion_dataset/fear/03-01-06-01-02-02-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_youth_neutral.wav|Say the word youth
+/content/emotion_dataset/angry/OAF_keen_angry.wav|Say the word keen
+/content/emotion_dataset/sad/03-01-04-01-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-22.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_sub_sad.wav|Say the word sub
+/content/emotion_dataset/angry/YAF_goal_angry.wav|Say the word goal
+/content/emotion_dataset/fear/YAF_boat_fear.wav|Say the word boat
+/content/emotion_dataset/neutral/OAF_live_neutral.wav|Say the word live
+/content/emotion_dataset/fear/03-01-06-02-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-01-01-17.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-01-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_loaf_happy.wav|Say the word loaf
+/content/emotion_dataset/happy/03-01-03-02-02-01-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_rough_neutral.wav|Say the word rough
+/content/emotion_dataset/fear/OAF_sail_fear.wav|Say the word sail
+/content/emotion_dataset/sad/OAF_page_sad.wav|Say the word page
+/content/emotion_dataset/happy/YAF_chief_happy.wav|Say the word chief
+/content/emotion_dataset/happy/YAF_chat_happy.wav|Say the word chat
+/content/emotion_dataset/fear/OAF_thin_fear.wav|Say the word thin
+/content/emotion_dataset/sad/OAF_phone_sad.wav|Say the word phone
+/content/emotion_dataset/neutral/YAF_match_neutral.wav|Say the word match
+/content/emotion_dataset/happy/OAF_late_happy.wav|Say the word late
+/content/emotion_dataset/sad/YAF_keg_sad.wav|Say the word keg
+/content/emotion_dataset/angry/03-01-05-01-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_king_fear.wav|Say the word king
+/content/emotion_dataset/neutral/03-01-01-01-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_love_fear.wav|Say the word love
+/content/emotion_dataset/sad/OAF_mouse_sad.wav|Say the word mouse
+/content/emotion_dataset/sad/OAF_mob_sad.wav|Say the word mob
+/content/emotion_dataset/happy/OAF_learn_happy.wav|Say the word learn
+/content/emotion_dataset/angry/03-01-05-01-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_turn_fear.wav|Say the word turn
+/content/emotion_dataset/neutral/YAF_dime_neutral.wav|Say the word dime
+/content/emotion_dataset/neutral/OAF_peg_neutral.wav|Say the word peg
+/content/emotion_dataset/neutral/YAF_tip_neutral.wav|Say the word tip
+/content/emotion_dataset/fear/03-01-06-01-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_wife_angry.wav|Say the word wife
+/content/emotion_dataset/sad/03-01-04-02-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_choice_happy.wav|Say the word choice
+/content/emotion_dataset/angry/OAF_tire_angry.wav|Say the word tire
+/content/emotion_dataset/neutral/YAF_note_neutral.wav|Say the word note
+/content/emotion_dataset/happy/YAF_sheep_happy.wav|Say the word sheep
+/content/emotion_dataset/angry/OAF_cool_angry.wav|Say the word cool
+/content/emotion_dataset/angry/YAF_gin_angry.wav|Say the word gin
+/content/emotion_dataset/sad/03-01-04-01-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_tire_sad.wav|Say the word tire
+/content/emotion_dataset/happy/03-01-03-02-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_goose_neutral.wav|Say the word goose
+/content/emotion_dataset/fear/YAF_live_fear.wav|Say the word live
+/content/emotion_dataset/happy/OAF_sheep_happy.wav|Say the word sheep
+/content/emotion_dataset/fear/OAF_ton_fear.wav|Say the word ton
+/content/emotion_dataset/neutral/YAF_youth_neutral.wav|Say the word youth
+/content/emotion_dataset/sad/YAF_dead_sad.wav|Say the word dead
+/content/emotion_dataset/neutral/03-01-01-01-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_pass_sad.wav|Say the word pass
+/content/emotion_dataset/happy/03-01-03-02-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_week_neutral.wav|Say the word week
+/content/emotion_dataset/happy/YAF_food_happy.wav|Say the word food
+/content/emotion_dataset/sad/OAF_sheep_sad.wav|Say the word sheep
+/content/emotion_dataset/neutral/OAF_tough_neutral.wav|Say the word tough
+/content/emotion_dataset/sad/YAF_numb_sad.wav|Say the word numb
+/content/emotion_dataset/sad/OAF_note_sad.wav|Say the word note
+/content/emotion_dataset/sad/03-01-04-02-02-01-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_came_angry.wav|Say the word came
+/content/emotion_dataset/happy/03-01-03-01-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_lean_angry.wav|Say the word lean
+/content/emotion_dataset/angry/OAF_death_angry.wav|Say the word death
+/content/emotion_dataset/sad/OAF_germ_sad.wav|Say the word germ
+/content/emotion_dataset/fear/OAF_sheep_fear.wav|Say the word sheep
+/content/emotion_dataset/fear/OAF_lid_fear.wav|Say the word lid
+/content/emotion_dataset/fear/YAF_jug_fear.wav|Say the word jug
+/content/emotion_dataset/neutral/OAF_king_neutral.wav|Say the word king
+/content/emotion_dataset/sad/YAF_rag_sad.wav|Say the word rag
+/content/emotion_dataset/fear/OAF_jail_fear.wav|Say the word jail
+/content/emotion_dataset/angry/03-01-05-02-02-01-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_mop_happy.wav|Say the word mop
+/content/emotion_dataset/fear/03-01-06-01-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-01-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_bought_fear.wav|Say the word bought
+/content/emotion_dataset/sad/OAF_pike_sad.wav|Say the word pike
+/content/emotion_dataset/angry/OAF_rough_angry.wav|Say the word rough
+/content/emotion_dataset/sad/YAF_death_sad.wav|Say the word death
+/content/emotion_dataset/angry/03-01-05-02-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-01-02-01-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_luck_fear.wav|Say the word luck
+/content/emotion_dataset/angry/03-01-05-01-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_half_neutral.wav|Say the word half
+/content/emotion_dataset/neutral/YAF_came_neutral.wav|Say the word came
+/content/emotion_dataset/fear/YAF_nice_fear.wav|Say the word nice
+/content/emotion_dataset/sad/OAF_beg_sad.wav|Say the word beg
+/content/emotion_dataset/angry/03-01-05-02-02-02-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_pearl_neutral.wav|Say the word pearl
+/content/emotion_dataset/angry/OAF_when_angry.wav|Say the word when
+/content/emotion_dataset/fear/OAF_tip_fear.wav|Say the word tip
+/content/emotion_dataset/happy/OAF_read_happy.wav|Say the word read
+/content/emotion_dataset/happy/OAF_laud_happy.wav|Say the word laud
+/content/emotion_dataset/angry/03-01-05-01-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-01-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_rain_happy.wav|Say the word rain
+/content/emotion_dataset/happy/03-01-03-02-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_hole_sad.wav|Say the word hole
+/content/emotion_dataset/sad/OAF_thumb_sad.wav|Say the word thumb
+/content/emotion_dataset/sad/OAF_mop_sad.wav|Say the word mop
+/content/emotion_dataset/angry/YAF_germ_angry.wav|Say the word germ
+/content/emotion_dataset/happy/03-01-03-02-02-02-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_tip_angry.wav|Say the word tip
+/content/emotion_dataset/angry/OAF_raid_angry.wav|Say the word raid
+/content/emotion_dataset/fear/03-01-06-02-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_match_fear.wav|Say the word match
+/content/emotion_dataset/angry/YAF_hurl_angry.wav|Say the word hurl
+/content/emotion_dataset/sad/03-01-04-01-02-01-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_chain_fear.wav|Say the word chain
+/content/emotion_dataset/fear/OAF_make_fear.wav|Say the word make
+/content/emotion_dataset/angry/YAF_ring_angry.wav|Say the word ring
+/content/emotion_dataset/sad/YAF_turn_sad.wav|Say the word turn
+/content/emotion_dataset/angry/OAF_shawl_angry.wav|Say the word shawl
+/content/emotion_dataset/happy/03-01-03-02-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_chain_sad.wav|Say the word chain
+/content/emotion_dataset/sad/03-01-04-01-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_pearl_happy.wav|Say the word pearl
+/content/emotion_dataset/sad/03-01-04-01-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_fit_angry.wav|Say the word fit
+/content/emotion_dataset/angry/03-01-05-02-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_base_fear.wav|Say the word base
+/content/emotion_dataset/happy/YAF_whip_happy.wav|Say the word whip
+/content/emotion_dataset/angry/03-01-05-02-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_should_neutral.wav|Say the word should
+/content/emotion_dataset/neutral/03-01-01-01-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_join_sad.wav|Say the word join
+/content/emotion_dataset/angry/YAF_fail_angry.wav|Say the word fail
+/content/emotion_dataset/happy/YAF_juice_happy.wav|Say the word juice
+/content/emotion_dataset/fear/OAF_get_fear.wav|Say the word get
+/content/emotion_dataset/neutral/OAF_rush_neutral.wav|Say the word rush
+/content/emotion_dataset/happy/03-01-03-01-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_chair_angry.wav|Say the word chair
+/content/emotion_dataset/happy/03-01-03-02-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_sour_neutral.wav|Say the word sour
+/content/emotion_dataset/neutral/OAF_witch_neutral.wav|Say the word witch
+/content/emotion_dataset/happy/03-01-03-01-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_keg_fear.wav|Say the word keg
+/content/emotion_dataset/neutral/YAF_book_neutral.wav|Say the word book
+/content/emotion_dataset/fear/03-01-06-02-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_bite_fear.wav|Say the word bite
+/content/emotion_dataset/angry/OAF_pool_angry.wav|Say the word pool
+/content/emotion_dataset/sad/OAF_ton_sad.wav|Say the word ton
+/content/emotion_dataset/happy/03-01-03-01-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_rain_neutral.wav|Say the word rain
+/content/emotion_dataset/neutral/OAF_rain_neutral.wav|Say the word rain
+/content/emotion_dataset/fear/OAF_thought_fear.wav|Say the word thought
+/content/emotion_dataset/fear/OAF_dodge_fear.wav|Say the word dodge
+/content/emotion_dataset/angry/OAF_lease_angry.wav|Say the word lease
+/content/emotion_dataset/fear/03-01-06-01-02-02-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_have_happy.wav|Say the word have
+/content/emotion_dataset/angry/OAF_have_angry.wav|Say the word have
+/content/emotion_dataset/neutral/03-01-01-01-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_jar_angry.wav|Say the word jar
+/content/emotion_dataset/fear/OAF_rag_fear.wav|Say the word rag
+/content/emotion_dataset/sad/YAF_gaze_sad.wav|Say the word gaze
+/content/emotion_dataset/happy/YAF_make_happy.wav|Say the word make
+/content/emotion_dataset/neutral/YAF_walk_neutral.wav|Say the word walk
+/content/emotion_dataset/neutral/YAF_tire_neutral.wav|Say the word tire
+/content/emotion_dataset/sad/03-01-04-02-01-02-20.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_raid_neutral.wav|Say the word raid
+/content/emotion_dataset/sad/03-01-04-01-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_jail_sad.wav|Say the word jail
+/content/emotion_dataset/fear/03-01-06-02-01-02-10.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_food_neutral.wav|Say the word food
+/content/emotion_dataset/fear/03-01-06-02-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_raise_neutral.wav|Say the word raise
+/content/emotion_dataset/sad/03-01-04-02-02-02-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_chalk_neutral.wav|Say the word chalk
+/content/emotion_dataset/happy/YAF_peg_happy.wav|Say the word peg
+/content/emotion_dataset/sad/03-01-04-01-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_kill_sad.wav|Say the word kill
+/content/emotion_dataset/happy/03-01-03-01-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_should_fear.wav|Say the word should
+/content/emotion_dataset/neutral/YAF_merge_neutral.wav|Say the word merge
+/content/emotion_dataset/neutral/OAF_void_neutral.wav|Say the word void
+/content/emotion_dataset/angry/YAF_puff_angry.wav|Say the word puff
+/content/emotion_dataset/fear/OAF_door_fear.wav|Say the word door
+/content/emotion_dataset/neutral/OAF_came_neutral.wav|Say the word came
+/content/emotion_dataset/fear/YAF_size_fear.wav|Say the word size
+/content/emotion_dataset/happy/03-01-03-01-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_when_fear.wav|Say the word when
+/content/emotion_dataset/happy/YAF_met_happy.wav|Say the word met
+/content/emotion_dataset/angry/YAF_five_angry.wav|Say the word five
+/content/emotion_dataset/happy/OAF_pad_happy.wav|Say the word pad
+/content/emotion_dataset/angry/YAF_calm_angry.wav|Say the word calm
+/content/emotion_dataset/neutral/YAF_road_neutral.wav|Say the word road
+/content/emotion_dataset/sad/OAF_dab_sad.wav|Say the word dab
+/content/emotion_dataset/neutral/03-01-01-01-02-02-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_kick_angry.wav|Say the word kick
+/content/emotion_dataset/happy/YAF_time_happy.wav|Say the word time
+/content/emotion_dataset/sad/03-01-04-01-01-01-15.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_cheek_happy.wav|Say the word cheek
+/content/emotion_dataset/angry/OAF_choice_angry.wav|Say the word choice
+/content/emotion_dataset/angry/YAF_burn_angry.wav|Say the word burn
+/content/emotion_dataset/neutral/OAF_mood_neutral.wav|Say the word mood
+/content/emotion_dataset/happy/OAF_voice_happy.wav|Say the word voice
+/content/emotion_dataset/angry/03-01-05-02-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_tough_happy.wav|Say the word tough
+/content/emotion_dataset/happy/YAF_luck_happy.wav|Say the word luck
+/content/emotion_dataset/neutral/OAF_life_neutral.wav|Say the word life
+/content/emotion_dataset/happy/OAF_dip_happy.wav|Say the word dip
+/content/emotion_dataset/neutral/YAF_chain_neutral.wav|Say the word chain
+/content/emotion_dataset/neutral/YAF_keg_neutral.wav|Say the word keg
+/content/emotion_dataset/happy/03-01-03-02-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_beg_angry.wav|Say the word beg
+/content/emotion_dataset/fear/YAF_pad_fear.wav|Say the word pad
+/content/emotion_dataset/happy/OAF_keen_happy.wav|Say the word keen
+/content/emotion_dataset/happy/03-01-03-01-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_take_sad.wav|Say the word take
+/content/emotion_dataset/fear/03-01-06-01-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_bite_neutral.wav|Say the word bite
+/content/emotion_dataset/neutral/03-01-01-01-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_hush_fear.wav|Say the word hush
+/content/emotion_dataset/angry/03-01-05-01-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_laud_sad.wav|Say the word laud
+/content/emotion_dataset/neutral/YAF_yes_neutral.wav|Say the word yes
+/content/emotion_dataset/happy/YAF_mess_happy.wav|Say the word mess
+/content/emotion_dataset/sad/03-01-04-01-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_tell_angry.wav|Say the word tell
+/content/emotion_dataset/fear/YAF_far_fear.wav|Say the word far
+/content/emotion_dataset/neutral/YAF_mode_neutral.wav|Say the word mode
+/content/emotion_dataset/neutral/YAF_keep_neutral.wav|Say the word keep
+/content/emotion_dataset/happy/03-01-03-01-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_cool_sad.wav|Say the word cool
+/content/emotion_dataset/happy/03-01-03-01-01-02-20.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_rag_angry.wav|Say the word rag
+/content/emotion_dataset/happy/OAF_base_happy.wav|Say the word base
+/content/emotion_dataset/sad/OAF_five_sad.wav|Say the word five
+/content/emotion_dataset/neutral/OAF_ring_neutral.wav|Say the word ring
+/content/emotion_dataset/sad/YAF_chief_sad.wav|Say the word chief
+/content/emotion_dataset/sad/03-01-04-02-01-01-23.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_ripe_angry.wav|Say the word ripe
+/content/emotion_dataset/fear/YAF_death_fear.wav|Say the word death
+/content/emotion_dataset/sad/OAF_wag_sad.wav|Say the word wag
+/content/emotion_dataset/fear/OAF_tool_fear.wav|Say the word tool
+/content/emotion_dataset/fear/OAF_white_fear.wav|Say the word white
+/content/emotion_dataset/fear/03-01-06-02-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_wag_fear.wav|Say the word wag
+/content/emotion_dataset/sad/YAF_walk_sad.wav|Say the word walk
+/content/emotion_dataset/neutral/OAF_red_neutral.wav|Say the word red
+/content/emotion_dataset/fear/YAF_team_fear.wav|Say the word team
+/content/emotion_dataset/neutral/OAF_mob_neutral.wav|Say the word mob
+/content/emotion_dataset/angry/YAF_doll_angry.wav|Say the word doll
+/content/emotion_dataset/neutral/OAF_gaze_neutral.wav|Say the word gaze
+/content/emotion_dataset/neutral/YAF_lot_neutral.wav|Say the word lot
+/content/emotion_dataset/fear/03-01-06-02-02-01-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_jar_neutral.wav|Say the word jar
+/content/emotion_dataset/sad/03-01-04-01-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_shawl_sad.wav|Say the word shawl
+/content/emotion_dataset/happy/YAF_pole_happy.wav|Say the word pole
+/content/emotion_dataset/angry/OAF_gaze_angry.wav|Say the word gaze
+/content/emotion_dataset/angry/YAF_cheek_angry.wav|Say the word cheek
+/content/emotion_dataset/neutral/YAF_wife_neutral.wav|Say the word wife
+/content/emotion_dataset/angry/OAF_dog_angry.wav|Say the word dog
+/content/emotion_dataset/angry/YAF_met_angry.wav|Say the word met
+/content/emotion_dataset/sad/OAF_south_sad.wav|Say the word south
+/content/emotion_dataset/angry/OAF_soup_angry.wav|Say the word soup
+/content/emotion_dataset/angry/YAF_pike_angry.wav|Say the word pike
+/content/emotion_dataset/neutral/03-01-01-01-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-02-01-02-10.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_cheek_fear.wav|Say the word cheek
+/content/emotion_dataset/sad/03-01-04-01-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-01-02-02-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_shack_fear.wav|Say the word shack
+/content/emotion_dataset/sad/YAF_chair_sad.wav|Say the word chair
+/content/emotion_dataset/fear/YAF_bite_fear.wav|Say the word bite
+/content/emotion_dataset/fear/03-01-06-01-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_pool_happy.wav|Say the word pool
+/content/emotion_dataset/neutral/YAF_lore_neutral.wav|Say the word lore
+/content/emotion_dataset/sad/OAF_make_sad.wav|Say the word make
+/content/emotion_dataset/neutral/YAF_pad_neutral.wav|Say the word pad
+/content/emotion_dataset/sad/YAF_keep_sad.wav|Say the word keep
+/content/emotion_dataset/angry/OAF_ditch_angry.wav|Say the word ditch
+/content/emotion_dataset/angry/03-01-05-02-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_walk_angry.wav|Say the word walk
+/content/emotion_dataset/sad/YAF_goose_sad.wav|Say the word goose
+/content/emotion_dataset/sad/03-01-04-02-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_young_sad.wav|Say the word young
+/content/emotion_dataset/fear/03-01-06-01-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-02-01-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_yearn_sad.wav|Say the word yearn
+/content/emotion_dataset/angry/03-01-05-02-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_long_happy.wav|Say the word long
+/content/emotion_dataset/angry/OAF_dip_angry.wav|Say the word dip
+/content/emotion_dataset/fear/OAF_pad_fear.wav|Say the word pad
+/content/emotion_dataset/fear/03-01-06-01-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_cool_fear.wav|Say the word cool
+/content/emotion_dataset/fear/YAF_bath_fear.wav|Say the word bath
+/content/emotion_dataset/sad/03-01-04-02-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_rush_angry.wav|Say the word rush
+/content/emotion_dataset/neutral/OAF_voice_neutral.wav|Say the word voice
+/content/emotion_dataset/happy/03-01-03-01-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_dead_fear.wav|Say the word dead
+/content/emotion_dataset/angry/03-01-05-02-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_wire_sad.wav|Say the word wire
+/content/emotion_dataset/fear/OAF_note_fear.wav|Say the word note
+/content/emotion_dataset/happy/YAF_check_happy.wav|Say the word check
+/content/emotion_dataset/angry/03-01-05-02-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_kill_neutral.wav|Say the word kill
+/content/emotion_dataset/fear/03-01-06-02-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_hole_fear.wav|Say the word hole
+/content/emotion_dataset/sad/YAF_lore_sad.wav|Say the word lore
+/content/emotion_dataset/fear/OAF_walk_fear.wav|Say the word walk
+/content/emotion_dataset/happy/YAF_thin_happy.wav|Say the word thin
+/content/emotion_dataset/fear/YAF_book_fear.wav|Say the word book
+/content/emotion_dataset/happy/OAF_third_happy.wav|Say the word third
+/content/emotion_dataset/angry/OAF_dime_angry.wav|Say the word dime
+/content/emotion_dataset/angry/YAF_deep_angry.wav|Say the word deep
+/content/emotion_dataset/angry/OAF_tool_angry.wav|Say the word tool
+/content/emotion_dataset/sad/OAF_cab_sad.wav|Say the word cab
+/content/emotion_dataset/fear/OAF_size_fear.wav|Say the word size
+/content/emotion_dataset/happy/03-01-03-01-01-01-06.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_kill_happy.wav|Say the word kill
+/content/emotion_dataset/angry/OAF_king_angry.wav|Say the word king
+/content/emotion_dataset/fear/OAF_wag_fear.wav|Say the word wag
+/content/emotion_dataset/happy/YAF_vine_happy.wav|Say the word vine
+/content/emotion_dataset/happy/OAF_fat_happy.wav|Say the word fat
+/content/emotion_dataset/neutral/OAF_loaf_neutral.wav|Say the word loaf
+/content/emotion_dataset/happy/YAF_wire_happy.wav|Say the word wire
+/content/emotion_dataset/sad/OAF_sell_sad.wav|Say the word sell
+/content/emotion_dataset/sad/OAF_ditch_sad.wav|Say the word ditch
+/content/emotion_dataset/neutral/YAF_love_neutral.wav|Say the word love
+/content/emotion_dataset/angry/YAF_keg_angry.wav|Say the word keg
+/content/emotion_dataset/neutral/OAF_sail_neutral.wav|Say the word sail
+/content/emotion_dataset/fear/03-01-06-02-01-02-05.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-16.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_nag_sad.wav|Say the word nag
+/content/emotion_dataset/fear/OAF_lot_fear.wav|Say the word lot
+/content/emotion_dataset/angry/03-01-05-02-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_ring_happy.wav|Say the word ring
+/content/emotion_dataset/angry/03-01-05-01-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_raise_fear.wav|Say the word raise
+/content/emotion_dataset/sad/YAF_wash_sad.wav|Say the word wash
+/content/emotion_dataset/neutral/YAF_rose_neutral.wav|Say the word rose
+/content/emotion_dataset/sad/03-01-04-01-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-02-01-02-17.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_jail_sad.wav|Say the word jail
+/content/emotion_dataset/angry/YAF_nice_angry.wav|Say the word nice
+/content/emotion_dataset/happy/YAF_rag_happy.wav|Say the word rag
+/content/emotion_dataset/neutral/03-01-01-01-02-02-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_date_happy.wav|Say the word date
+/content/emotion_dataset/sad/OAF_check_sad.wav|Say the word check
+/content/emotion_dataset/happy/03-01-03-01-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_vote_fear.wav|Say the word vote
+/content/emotion_dataset/neutral/03-01-01-01-02-02-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_sail_angry.wav|Say the word sail
+/content/emotion_dataset/happy/OAF_join_happy.wav|Say the word join
+/content/emotion_dataset/sad/03-01-04-02-01-01-11.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_cause_sad.wav|Say the word cause
+/content/emotion_dataset/fear/YAF_wife_fear.wav|Say the word wife
+/content/emotion_dataset/happy/03-01-03-01-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_dab_sad.wav|Say the word dab
+/content/emotion_dataset/sad/03-01-04-02-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_sail_fear.wav|Say the word sail
+/content/emotion_dataset/happy/03-01-03-02-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_mood_angry.wav|Say the word mood
+/content/emotion_dataset/sad/YAF_came_sad.wav|Say the word came
+/content/emotion_dataset/sad/YAF_cause_sad.wav|Say the word cause
+/content/emotion_dataset/angry/YAF_boat_angry.wav|Say the word boat
+/content/emotion_dataset/fear/YAF_ditch_fear.wav|Say the word ditch
+/content/emotion_dataset/neutral/OA_bite_neutral.wav|Say the word bite
+/content/emotion_dataset/angry/03-01-05-02-01-02-04.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_cab_neutral.wav|Say the word cab
+/content/emotion_dataset/happy/YAF_lean_happy.wav|Say the word lean
+/content/emotion_dataset/happy/OAF_shall_happy.wav|Say the word shall
+/content/emotion_dataset/angry/YAF_dab_angry.wav|Say the word dab
+/content/emotion_dataset/angry/YAF_knock_angry.wav|Say the word knock
+/content/emotion_dataset/angry/OAF_date_angry.wav|Say the word date
+/content/emotion_dataset/sad/03-01-04-02-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-11.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_laud_neutral.wav|Say the word laud
+/content/emotion_dataset/sad/OAF_talk_sad.wav|Say the word talk
+/content/emotion_dataset/happy/OAF_ring_happy.wav|Say the word ring
+/content/emotion_dataset/fear/YAF_lore_fear.wav|Say the word lore
+/content/emotion_dataset/fear/OAF_tell_fear.wav|Say the word tell
+/content/emotion_dataset/happy/03-01-03-01-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_mop_neutral.wav|Say the word mop
+/content/emotion_dataset/sad/YAF_hole_sad.wav|Say the word hole
+/content/emotion_dataset/sad/YAF_tough_sad.wav|Say the word tough
+/content/emotion_dataset/happy/YAF_kick_happy.wav|Say the word kick
+/content/emotion_dataset/fear/YAF_puff_fear.wav|Say the word puff
+/content/emotion_dataset/sad/YAF_bite_sad.wav|Say the word bite
+/content/emotion_dataset/happy/03-01-03-01-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_far_angry.wav|Say the word far
+/content/emotion_dataset/sad/OAF_keen_sad.wav|Say the word keen
+/content/emotion_dataset/happy/YAF_dodge_happy.wav|Say the word dodge
+/content/emotion_dataset/happy/OAF_thin_happy.wav|Say the word thin
+/content/emotion_dataset/angry/OAF_reach_angry.wav|Say the word reach
+/content/emotion_dataset/angry/YAF_moon_angry.wav|Say the word moon
+/content/emotion_dataset/angry/03-01-05-01-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_wire_angry.wav|Say the word wire
+/content/emotion_dataset/sad/OAF_home_sad.wav|Say the word home
+/content/emotion_dataset/sad/OAF_rag_sad.wav|Say the word rag
+/content/emotion_dataset/fear/OAF_week_fear.wav|Say the word week
+/content/emotion_dataset/happy/YAF_hush_happy.wav|Say the word hush
+/content/emotion_dataset/fear/YAF_lot_fear.wav|Say the word lot
+/content/emotion_dataset/happy/YAF_pick_happy.wav|Say the word pick
+/content/emotion_dataset/sad/03-01-04-02-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_hire_angry.wav|Say the word hire
+/content/emotion_dataset/sad/03-01-04-02-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_lore_angry.wav|Say the word lore
+/content/emotion_dataset/angry/YAF_wash_angry.wav|Say the word wash
+/content/emotion_dataset/angry/YAF_said_angry.wav|Say the word said
+/content/emotion_dataset/happy/YAF_merge_happy.wav|Say the word merge
+/content/emotion_dataset/neutral/OAF_death_neutral.wav|Say the word death
+/content/emotion_dataset/angry/YAF_jail_angry.wav|Say the word jail
+/content/emotion_dataset/angry/03-01-05-01-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_hire_sad.wav|Say the word hire
+/content/emotion_dataset/angry/03-01-05-02-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_mop_happy.wav|Say the word mop
+/content/emotion_dataset/sad/YAF_gap_sad.wav|Say the word gap
+/content/emotion_dataset/fear/OAF_hole_fear.wav|Say the word hole
+/content/emotion_dataset/sad/03-01-04-01-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_numb_neutral.wav|Say the word numb
+/content/emotion_dataset/fear/OAF_back_fear.wav|Say the word back
+/content/emotion_dataset/neutral/YAF_search_neutral.wav|Say the word search
+/content/emotion_dataset/sad/OAF_haze_sad.wav|Say the word haze
+/content/emotion_dataset/neutral/03-01-01-01-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_hall_fear.wav|Say the word hall
+/content/emotion_dataset/happy/03-01-03-01-02-02-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_live_angry.wav|Say the word live
+/content/emotion_dataset/angry/OAF_jar_angry.wav|Say the word jar
+/content/emotion_dataset/angry/YAF_bite_angry.wav|Say the word bite
+/content/emotion_dataset/fear/YAF_page_fear.wav|Say the word page
+/content/emotion_dataset/fear/OAF_hire_fear.wav|Say the word hire
+/content/emotion_dataset/sad/OAF_lease_sad.wav|Say the word lease
+/content/emotion_dataset/angry/YAF_lid_angry.wav|Say the word lid
+/content/emotion_dataset/angry/YAF_pick_angry.wav|Say the word pick
+/content/emotion_dataset/neutral/OAF_chain_neutral.wav|Say the word chain
+/content/emotion_dataset/angry/03-01-05-02-02-01-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_fail_neutral.wav|Say the word fail
+/content/emotion_dataset/sad/OAF_said_sad.wav|Say the word said
+/content/emotion_dataset/fear/YAF_witch_fear.wav|Say the word witch
+/content/emotion_dataset/sad/03-01-04-02-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_keen_sad.wav|Say the word keen
+/content/emotion_dataset/fear/03-01-06-02-02-01-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_youth_fear.wav|Say the word youth
+/content/emotion_dataset/sad/03-01-04-01-01-02-07.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_germ_angry.wav|Say the word germ
+/content/emotion_dataset/sad/YAF_sheep_sad.wav|Say the word sheep
+/content/emotion_dataset/angry/OAF_jail_angry.wav|Say the word jail
+/content/emotion_dataset/fear/YAF_goose_fear.wav|Say the word goose
+/content/emotion_dataset/neutral/YAF_room_neutral.wav|Say the word room
+/content/emotion_dataset/happy/03-01-03-02-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_neat_angry.wav|Say the word neat
+/content/emotion_dataset/neutral/03-01-01-01-02-01-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_whip_fear.wav|Say the word whip
+/content/emotion_dataset/happy/03-01-03-02-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_luck_sad.wav|Say the word luck
+/content/emotion_dataset/happy/YAF_wash_happy.wav|Say the word wash
+/content/emotion_dataset/happy/YAF_dime_happy.wav|Say the word dime
+/content/emotion_dataset/angry/03-01-05-01-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_vote_happy.wav|Say the word vote
+/content/emotion_dataset/sad/OAF_book_sad.wav|Say the word book
+/content/emotion_dataset/angry/03-01-05-02-01-01-04.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_tell_fear.wav|Say the word tell
+/content/emotion_dataset/sad/OAF_lot_sad.wav|Say the word lot
+/content/emotion_dataset/happy/YAF_lose_happy.wav|Say the word lose
+/content/emotion_dataset/fear/OAF_mode_fear.wav|Say the word mode
+/content/emotion_dataset/sad/OAF_pick_sad.wav|Say the word pick
+/content/emotion_dataset/fear/OAF_yes_fear.wav|Say the word yes
+/content/emotion_dataset/sad/OAF_shout_sad.wav|Say the word shout
+/content/emotion_dataset/fear/OAF_moon_fear.wav|Say the word moon
+/content/emotion_dataset/happy/03-01-03-01-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_thin_sad.wav|Say the word thin
+/content/emotion_dataset/happy/YAF_fall_happy.wav|Say the word fall
+/content/emotion_dataset/happy/YAF_seize_happy.wav|Say the word seize
+/content/emotion_dataset/sad/OAF_yearn_sad.wav|Say the word yearn
+/content/emotion_dataset/fear/YAF_burn_fear.wav|Say the word burn
+/content/emotion_dataset/happy/03-01-03-02-02-01-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_pole_neutral.wav|Say the word pole
+/content/emotion_dataset/fear/03-01-06-01-01-02-16.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_nag_happy.wav|Say the word nag
+/content/emotion_dataset/fear/03-01-06-02-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_date_sad.wav|Say the word date
+/content/emotion_dataset/angry/YAF_wheat_angry.wav|Say the word wheat
+/content/emotion_dataset/fear/YAF_pass_fear.wav|Say the word pass
+/content/emotion_dataset/sad/YAF_time_sad.wav|Say the word time
+/content/emotion_dataset/fear/OAF_dab_fear.wav|Say the word dab
+/content/emotion_dataset/sad/03-01-04-02-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_chalk_happy.wav|Say the word chalk
+/content/emotion_dataset/neutral/OAF_fat_neutral.wav|Say the word fat
+/content/emotion_dataset/sad/03-01-04-02-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_five_angry.wav|Say the word five
+/content/emotion_dataset/fear/OAF_talk_fear.wav|Say the word talk
+/content/emotion_dataset/sad/03-01-04-01-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_third_sad.wav|Say the word third
+/content/emotion_dataset/sad/YAF_jar_sad.wav|Say the word jar
+/content/emotion_dataset/angry/OAF_pass_angry.wav|Say the word pass
+/content/emotion_dataset/angry/YAF_death_angry.wav|Say the word death
+/content/emotion_dataset/sad/YAF_dodge_sad.wav|Say the word dodge
+/content/emotion_dataset/sad/OAF_name_sad.wav|Say the word name
+/content/emotion_dataset/happy/OAF_get_happy.wav|Say the word get
+/content/emotion_dataset/happy/03-01-03-02-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_knock_happy.wav|Say the word knock
+/content/emotion_dataset/fear/YAF_life_fear.wav|Say the word life
+/content/emotion_dataset/angry/YAF_south_angry.wav|Say the word south
+/content/emotion_dataset/sad/03-01-04-01-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_rot_neutral.wav|Say the word rot
+/content/emotion_dataset/neutral/YAF_pool_neutral.wav|Say the word pool
+/content/emotion_dataset/angry/OAF_young_angry.wav|Say the word young
+/content/emotion_dataset/sad/YAF_tool_sad.wav|Say the word tool
+/content/emotion_dataset/angry/OAF_size_angry.wav|Say the word size
+/content/emotion_dataset/fear/OAF_calm_fear.wav|Say the word calm
+/content/emotion_dataset/fear/03-01-06-01-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_hate_angry.wav|Say the word hate
+/content/emotion_dataset/fear/OAF_south_fear.wav|Say the word south
+/content/emotion_dataset/fear/YAF_knock_fear.wav|Say the word knock
+/content/emotion_dataset/neutral/OAF_join_neutral.wav|Say the word join
+/content/emotion_dataset/fear/YAF_goal_fear.wav|Say the word goal
+/content/emotion_dataset/happy/YAF_cool_happy.wav|Say the word cool
+/content/emotion_dataset/neutral/03-01-01-01-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_should_angry.wav|Say the word should
+/content/emotion_dataset/angry/YAF_witch_angry.wav|Say the word witch
+/content/emotion_dataset/happy/03-01-03-02-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_king_sad.wav|Say the word king
+/content/emotion_dataset/happy/OAF_good_happy.wav|Say the word good
+/content/emotion_dataset/sad/03-01-04-02-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_pole_neutral.wav|Say the word pole
+/content/emotion_dataset/angry/03-01-05-02-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-01-02-17.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-01-01-16.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_mood_angry.wav|Say the word mood
+/content/emotion_dataset/happy/OAF_south_happy.wav|Say the word south
+/content/emotion_dataset/fear/YAF_time_fear.wav|Say the word time
+/content/emotion_dataset/sad/03-01-04-01-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_puff_angry.wav|Say the word puff
+/content/emotion_dataset/neutral/YAF_dead_neutral.wav|Say the word dead
+/content/emotion_dataset/fear/03-01-06-02-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_dab_neutral.wav|Say the word dab
+/content/emotion_dataset/neutral/OAF_calm_neutral.wav|Say the word calm
+/content/emotion_dataset/happy/OAF_moon_happy.wav|Say the word moon
+/content/emotion_dataset/angry/OAF_peg_angry.wav|Say the word peg
+/content/emotion_dataset/happy/OAF_kick_happy.wav|Say the word kick
+/content/emotion_dataset/fear/03-01-06-01-02-01-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_home_angry.wav|Say the word home
+/content/emotion_dataset/angry/OAF_fail_angry.wav|Say the word fail
+/content/emotion_dataset/angry/03-01-05-01-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_shout_sad.wav|Say the word shout
+/content/emotion_dataset/happy/YAF_mood_happy.wav|Say the word mood
+/content/emotion_dataset/sad/OAF_door_sad.wav|Say the word door
+/content/emotion_dataset/sad/03-01-04-01-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-01-02-19.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_tell_angry.wav|Say the word tell
+/content/emotion_dataset/happy/YAF_gaze_happy.wav|Say the word gaze
+/content/emotion_dataset/happy/03-01-03-01-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_chat_neutral.wav|Say the word chat
+/content/emotion_dataset/angry/OAF_hush_angry.wav|Say the word hush
+/content/emotion_dataset/happy/OAF_wife_happy.wav|Say the word wife
+/content/emotion_dataset/happy/03-01-03-02-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_fall_fear.wav|Say the word fall
+/content/emotion_dataset/sad/OAF_keg_sad.wav|Say the word keg
+/content/emotion_dataset/fear/YAF_pick_fear.wav|Say the word pick
+/content/emotion_dataset/angry/YAF_third_angry.wav|Say the word third
+/content/emotion_dataset/sad/OAF_goal_sad.wav|Say the word goal
+/content/emotion_dataset/angry/03-01-05-02-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_keep_angry.wav|Say the word keep
+/content/emotion_dataset/fear/YAF_loaf_fear.wav|Say the word loaf
+/content/emotion_dataset/neutral/YAF_hash_neutral.wav|Say the word hash
+/content/emotion_dataset/fear/YAF_gap_fear.wav|Say the word gap
+/content/emotion_dataset/neutral/YAF_take_neutral.wav|Say the word take
+/content/emotion_dataset/happy/OAF_tool_happy.wav|Say the word tool
+/content/emotion_dataset/fear/OAF_shack_fear.wav|Say the word shack
+/content/emotion_dataset/sad/03-01-04-01-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_death_fear.wav|Say the word death
+/content/emotion_dataset/angry/YAF_nag_angry.wav|Say the word nag
+/content/emotion_dataset/sad/OAF_rat_sad.wav|Say the word rat
+/content/emotion_dataset/happy/OAF_chain_happy.wav|Say the word chain
+/content/emotion_dataset/happy/OAF_wash_happy.wav|Say the word wash
+/content/emotion_dataset/angry/03-01-05-01-01-02-05.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_bite_happy.wav|Say the word bite
+/content/emotion_dataset/happy/OAF_dime_happy.wav|Say the word dime
+/content/emotion_dataset/fear/YAF_sure_fear.wav|Say the word sure
+/content/emotion_dataset/angry/OAF_merge_angry.wav|Say the word merge
+/content/emotion_dataset/angry/03-01-05-02-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_said_neutral.wav|Say the word said
+/content/emotion_dataset/neutral/OAF_hire_neutral.wav|Say the word hire
+/content/emotion_dataset/neutral/OAF_nice_neutral.wav|Say the word nice
+/content/emotion_dataset/neutral/OAF_shirt_neutral.wav|Say the word shirt
+/content/emotion_dataset/fear/OAF_choice_fear.wav|Say the word choice
+/content/emotion_dataset/fear/03-01-06-02-02-01-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-01-02-16.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_wag_sad.wav|Say the word wag
+/content/emotion_dataset/sad/YAF_hush_sad.wav|Say the word hush
+/content/emotion_dataset/neutral/OAF_cab_neutral.wav|Say the word cab
+/content/emotion_dataset/sad/OAF_peg_sad.wav|Say the word peg
+/content/emotion_dataset/neutral/YAF_doll_neutral.wav|Say the word doll
+/content/emotion_dataset/fear/YAF_week_fear.wav|Say the word week
+/content/emotion_dataset/angry/OAF_deep_angry.wav|Say the word deep
+/content/emotion_dataset/fear/YAF_learn_fear.wav|Say the word learn
+/content/emotion_dataset/sad/YAF_gin_sad.wav|Say the word gin
+/content/emotion_dataset/angry/OAF_juice_angry.wav|Say the word juice
+/content/emotion_dataset/happy/03-01-03-02-02-01-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_kite_neutral.wav|Say the word kite
+/content/emotion_dataset/neutral/03-01-01-01-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_rush_sad.wav|Say the word rush
+/content/emotion_dataset/sad/OAF_whip_sad.wav|Say the word whip
+/content/emotion_dataset/neutral/OAF_road_neutral.wav|Say the word road
+/content/emotion_dataset/fear/YAF_gaze_fear.wav|Say the word gaze
+/content/emotion_dataset/happy/YAF_keen_happy.wav|Say the word keen
+/content/emotion_dataset/sad/OAF_loaf_sad.wav|Say the word loaf
+/content/emotion_dataset/fear/03-01-06-01-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-01-02-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_kill_fear.wav|Say the word kill
+/content/emotion_dataset/happy/OAF_fall_happy.wav|Say the word fall
+/content/emotion_dataset/angry/YAF_young_angry.wav|Say the word young
+/content/emotion_dataset/happy/YAF_have_happy.wav|Say the word have
+/content/emotion_dataset/happy/OAF_which_happy.wav|Say the word which
+/content/emotion_dataset/happy/OAF_yes_happy.wav|Say the word yes
+/content/emotion_dataset/angry/03-01-05-01-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_size_neutral.wav|Say the word size
+/content/emotion_dataset/fear/03-01-06-01-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_sail_happy.wav|Say the word sail
+/content/emotion_dataset/neutral/OAF_pad_neutral.wav|Say the word pad
+/content/emotion_dataset/happy/03-01-03-02-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_keep_happy.wav|Say the word keep
+/content/emotion_dataset/angry/YAF_chief_angry.wav|Say the word chief
+/content/emotion_dataset/angry/OAF_gin_angry.wav|Say the word gin
+/content/emotion_dataset/angry/03-01-05-02-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_size_sad.wav|Say the word size
+/content/emotion_dataset/sad/YAF_long_sad.wav|Say the word long
+/content/emotion_dataset/fear/OAF_time_fear.wav|Say the word time
+/content/emotion_dataset/fear/YAF_void_fear.wav|Say the word void
+/content/emotion_dataset/happy/03-01-03-02-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_said_neutral.wav|Say the word said
+/content/emotion_dataset/fear/YAF_laud_fear.wav|Say the word laud
+/content/emotion_dataset/angry/03-01-05-02-01-01-06.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_dip_neutral.wav|Say the word dip
+/content/emotion_dataset/sad/03-01-04-02-01-02-22.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_thin_angry.wav|Say the word thin
+/content/emotion_dataset/neutral/03-01-01-01-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_pearl_happy.wav|Say the word pearl
+/content/emotion_dataset/happy/OAF_wheat_happy.wav|Say the word wheat
+/content/emotion_dataset/neutral/OAF_lose_neutral.wav|Say the word lose
+/content/emotion_dataset/sad/YAF_vote_sad.wav|Say the word vote
+/content/emotion_dataset/sad/03-01-04-02-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_make_fear.wav|Say the word make
+/content/emotion_dataset/happy/03-01-03-01-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-02-02-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_mop_neutral.wav|Say the word mop
+/content/emotion_dataset/happy/YAF_soup_happy.wav|Say the word soup
+/content/emotion_dataset/happy/03-01-03-02-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_back_angry.wav|Say the word back
+/content/emotion_dataset/fear/03-01-06-02-01-02-22.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_young_fear.wav|Say the word young
+/content/emotion_dataset/happy/03-01-03-02-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_beg_neutral.wav|Say the word beg
+/content/emotion_dataset/angry/03-01-05-01-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_merge_sad.wav|Say the word merge
+/content/emotion_dataset/neutral/YAF_back_neutral.wav|Say the word back
+/content/emotion_dataset/happy/03-01-03-01-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_book_happy.wav|Say the word book
+/content/emotion_dataset/angry/YAF_size_angry.wav|Say the word size
+/content/emotion_dataset/sad/03-01-04-01-02-02-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-02-01-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_bone_sad.wav|Say the word bone
+/content/emotion_dataset/fear/03-01-06-01-01-02-04.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_calm_angry.wav|Say the word calm
+/content/emotion_dataset/happy/YAF_walk_happy.wav|Say the word walk
+/content/emotion_dataset/angry/03-01-05-01-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_tell_sad.wav|Say the word tell
+/content/emotion_dataset/happy/OAF_should_happy.wav|Say the word should
+/content/emotion_dataset/fear/03-01-06-02-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_shall_fear.wav|Say the word shall
+/content/emotion_dataset/angry/YAF_have_angry.wav|Say the word have
+/content/emotion_dataset/neutral/03-01-01-01-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_merge_sad.wav|Say the word merge
+/content/emotion_dataset/happy/YAF_pike_happy.wav|Say the word pike
+/content/emotion_dataset/happy/OAF_rain_happy.wav|Say the word rain
+/content/emotion_dataset/angry/03-01-05-01-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-02-02-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_rough_happy.wav|Say the word rough
+/content/emotion_dataset/angry/03-01-05-01-02-02-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_read_angry.wav|Say the word read
+/content/emotion_dataset/sad/03-01-04-02-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_cool_neutral.wav|Say the word cool
+/content/emotion_dataset/fear/OAF_food_fear.wav|Say the word food
+/content/emotion_dataset/happy/OAF_came_happy.wav|Say the word came
+/content/emotion_dataset/happy/03-01-03-01-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_back_fear.wav|Say the word back
+/content/emotion_dataset/angry/OAF_jug_angry.wav|Say the word jug
+/content/emotion_dataset/angry/03-01-05-01-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_pike_fear.wav|Say the word pike
+/content/emotion_dataset/neutral/03-01-01-01-01-02-07.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_road_sad.wav|Say the word road
+/content/emotion_dataset/fear/03-01-06-02-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_neat_fear.wav|Say the word neat
+/content/emotion_dataset/angry/OAF_hurl_angry.wav|Say the word hurl
+/content/emotion_dataset/fear/03-01-06-01-01-01-23.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_vine_neutral.wav|Say the word vine
+/content/emotion_dataset/happy/03-01-03-01-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_note_happy.wav|Say the word note
+/content/emotion_dataset/happy/OAF_witch_happy.wav|Say the word witch
+/content/emotion_dataset/fear/OAF_ditch_fear.wav|Say the word ditch
+/content/emotion_dataset/sad/OAF_dip_sad.wav|Say the word dip
+/content/emotion_dataset/fear/03-01-06-02-01-02-16.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_numb_fear.wav|Say the word numb
+/content/emotion_dataset/fear/03-01-06-01-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_name_neutral.wav|Say the word name
+/content/emotion_dataset/fear/YAF_bone_fear.wav|Say the word bone
+/content/emotion_dataset/neutral/YAF_name_neutral.wav|Say the word name
+/content/emotion_dataset/neutral/03-01-01-01-02-02-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_rot_neutral.wav|Say the word rot
+/content/emotion_dataset/fear/OAF_shout_fear.wav|Say the word shout
+/content/emotion_dataset/fear/YAF_door_fear.wav|Say the word door
+/content/emotion_dataset/angry/YAF_numb_angry.wav|Say the word numb
+/content/emotion_dataset/happy/YAF_ditch_happy.wav|Say the word ditch
+/content/emotion_dataset/happy/OAF_cheek_happy.wav|Say the word cheek
+/content/emotion_dataset/happy/OAF_pain_happy.wav|Say the word pain
+/content/emotion_dataset/angry/03-01-05-01-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_sour_happy.wav|Say the word sour
+/content/emotion_dataset/neutral/OAF_pike_neutral.wav|Say the word pike
+/content/emotion_dataset/angry/OAF_south_angry.wav|Say the word south
+/content/emotion_dataset/angry/OAF_mode_angry.wav|Say the word mode
+/content/emotion_dataset/fear/03-01-06-02-02-01-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_third_neutral.wav|Say the word third
+/content/emotion_dataset/neutral/03-01-01-01-02-01-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_date_angry.wav|Say the word date
+/content/emotion_dataset/fear/03-01-06-02-02-01-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_keen_neutral.wav|Say the word keen
+/content/emotion_dataset/fear/OAF_phone_fear.wav|Say the word phone
+/content/emotion_dataset/happy/OAF_tell_happy.wav|Say the word tell
+/content/emotion_dataset/angry/03-01-05-01-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_fall_sad.wav|Say the word fall
+/content/emotion_dataset/fear/03-01-06-02-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_shack_sad.wav|Say the word shack
+/content/emotion_dataset/neutral/YAF_shall_neutral.wav|Say the word shall
+/content/emotion_dataset/neutral/03-01-01-01-02-01-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_such_fear.wav|Say the word such
+/content/emotion_dataset/fear/03-01-06-02-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_room_happy.wav|Say the word room
+/content/emotion_dataset/angry/03-01-05-02-02-01-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_shall_fear.wav|Say the word shall
+/content/emotion_dataset/angry/OAF_rat_angry.wav|Say the word rat
+/content/emotion_dataset/angry/03-01-05-01-02-01-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_week_sad.wav|Say the word week
+/content/emotion_dataset/happy/YAF_cab_happy.wav|Say the word cab
+/content/emotion_dataset/happy/YAF_burn_happy.wav|Say the word burn
+/content/emotion_dataset/happy/OAF_food_happy.wav|Say the word food
+/content/emotion_dataset/happy/03-01-03-01-01-02-04.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_wag_happy.wav|Say the word wag
+/content/emotion_dataset/angry/YAF_king_angry.wav|Say the word king
+/content/emotion_dataset/sad/OAF_burn_sad.wav|Say the word burn
+/content/emotion_dataset/sad/YAF_when_sad.wav|Say the word when
+/content/emotion_dataset/angry/YAF_pearl_angry.wav|Say the word pearl
+/content/emotion_dataset/fear/03-01-06-01-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-02-01-02-05.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_goal_angry.wav|Say the word goal
+/content/emotion_dataset/happy/YAF_bought_happy.wav|Say the word bought
+/content/emotion_dataset/fear/03-01-06-02-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-01-02-02-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_sell_angry.wav|Say the word sell
+/content/emotion_dataset/angry/OAF_get_angry.wav|Say the word get
+/content/emotion_dataset/angry/OAF_chat_angry.wav|Say the word chat
+/content/emotion_dataset/happy/YAF_beg_happy.wav|Say the word beg
+/content/emotion_dataset/happy/03-01-03-02-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_wife_fear.wav|Say the word wife
+/content/emotion_dataset/neutral/OAF_reach_neutral.wav|Say the word reach
+/content/emotion_dataset/sad/OAF_moon_sad.wav|Say the word moon
+/content/emotion_dataset/fear/03-01-06-01-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_sure_angry.wav|Say the word sure
+/content/emotion_dataset/neutral/OAF_hall_neutral.wav|Say the word hall
+/content/emotion_dataset/happy/03-01-03-01-01-01-23.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-01-11.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_bath_happy.wav|Say the word bath
+/content/emotion_dataset/sad/YAF_juice_sad.wav|Say the word juice
+/content/emotion_dataset/sad/03-01-04-01-02-02-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_half_happy.wav|Say the word half
+/content/emotion_dataset/angry/OAF_youth_angry.wav|Say the word youth
+/content/emotion_dataset/sad/YAF_get_sad.wav|Say the word get
+/content/emotion_dataset/fear/03-01-06-01-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_ripe_fear.wav|Say the word ripe
+/content/emotion_dataset/fear/YAF_bean_fear.wav|Say the word bean
+/content/emotion_dataset/sad/OAF_vote_sad.wav|Say the word vote
+/content/emotion_dataset/happy/YAF_boat_happy.wav|Say the word boat
+/content/emotion_dataset/angry/03-01-05-01-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-02-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_yes_angry.wav|Say the word yes
+/content/emotion_dataset/angry/OAF_long_angry.wav|Say the word long
+/content/emotion_dataset/angry/YAF_check_angry.wav|Say the word check
+/content/emotion_dataset/fear/03-01-06-01-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_jug_neutral.wav|Say the word jug
+/content/emotion_dataset/sad/OAF_bought_sad.wav|Say the word bought
+/content/emotion_dataset/sad/03-01-04-02-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_limb_fear.wav|Say the word limb
+/content/emotion_dataset/fear/YAF_five_fear.wav|Say the word five
+/content/emotion_dataset/fear/YAF_beg_fear.wav|Say the word beg
+/content/emotion_dataset/sad/YAF_phone_sad.wav|Say the word phone
+/content/emotion_dataset/angry/03-01-05-01-01-01-06.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_gas_sad.wav|Say the word gas
+/content/emotion_dataset/sad/YAF_pole_sad.wav|Say the word pole
+/content/emotion_dataset/angry/YAF_time_angry.wav|Say the word time
+/content/emotion_dataset/fear/YAF_cab_fear.wav|Say the word cab
+/content/emotion_dataset/happy/03-01-03-02-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_king_sad.wav|Say the word king
+/content/emotion_dataset/sad/YAF_burn_sad.wav|Say the word burn
+/content/emotion_dataset/sad/YAF_south_sad.wav|Say the word south
+/content/emotion_dataset/angry/YAF_keen_angry.wav|Say the word keen
+/content/emotion_dataset/angry/YAF_hole_angry.wav|Say the word hole
+/content/emotion_dataset/sad/03-01-04-02-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_gin_neutral.wav|Say the word gin
+/content/emotion_dataset/neutral/YAF_page_neutral.wav|Say the word page
+/content/emotion_dataset/angry/03-01-05-01-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_whip_neutral.wav|Say the word whip
+/content/emotion_dataset/neutral/OAF_hash_neutral.wav|Say the word hash
+/content/emotion_dataset/neutral/OAF_chat_neutral.wav|Say the word chat
+/content/emotion_dataset/angry/OAF_bone_angry.wav|Say the word bone
+/content/emotion_dataset/angry/03-01-05-02-01-02-14.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-02-02-01-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-15.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_hash_angry.wav|Say the word hash
+/content/emotion_dataset/sad/YAF_road_sad.wav|Say the word road
+/content/emotion_dataset/fear/03-01-06-02-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_vine_neutral.wav|Say the word vine
+/content/emotion_dataset/fear/YAF_dodge_fear.wav|Say the word dodge
+/content/emotion_dataset/happy/03-01-03-02-01-02-20.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_south_fear.wav|Say the word south
+/content/emotion_dataset/happy/YAF_wife_happy.wav|Say the word wife
+/content/emotion_dataset/fear/YAF_mill_fear.wav|Say the word mill
+/content/emotion_dataset/fear/YAF_said_fear.wav|Say the word said
+/content/emotion_dataset/sad/YAF_door_sad.wav|Say the word door
+/content/emotion_dataset/fear/YAF_sheep_fear.wav|Say the word sheep
+/content/emotion_dataset/angry/OAF_team_angry.wav|Say the word team
+/content/emotion_dataset/neutral/YAF_seize_neutral.wav|Say the word seize
+/content/emotion_dataset/neutral/OAF_take_neutral.wav|Say the word take
+/content/emotion_dataset/angry/03-01-05-01-01-02-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_learn_angry.wav|Say the word learn
+/content/emotion_dataset/angry/OAF_make_angry.wav|Say the word make
+/content/emotion_dataset/angry/YAF_sail_angry.wav|Say the word sail
+/content/emotion_dataset/angry/OAF_knock_angry.wav|Say the word knock
+/content/emotion_dataset/angry/YAF_life_angry.wav|Say the word life
+/content/emotion_dataset/sad/YAF_shack_sad.wav|Say the word shack
+/content/emotion_dataset/sad/YAF_hurl_sad.wav|Say the word hurl
+/content/emotion_dataset/fear/YAF_choice_fear.wav|Say the word choice
+/content/emotion_dataset/neutral/YAF_make_neutral.wav|Say the word make
+/content/emotion_dataset/sad/YAF_match_sad.wav|Say the word match
+/content/emotion_dataset/fear/03-01-06-01-01-01-12.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_red_sad.wav|Say the word red
+/content/emotion_dataset/angry/03-01-05-01-01-02-16.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_reach_fear.wav|Say the word reach
+/content/emotion_dataset/angry/YAF_search_angry.wav|Say the word search
+/content/emotion_dataset/angry/03-01-05-01-01-02-10.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_good_happy.wav|Say the word good
+/content/emotion_dataset/happy/03-01-03-02-01-01-01.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_tough_fear.wav|Say the word tough
+/content/emotion_dataset/happy/OAF_choice_happy.wav|Say the word choice
+/content/emotion_dataset/neutral/YAF_rag_neutral.wav|Say the word rag
+/content/emotion_dataset/angry/OAF_dodge_angry.wav|Say the word dodge
+/content/emotion_dataset/fear/YAF_lease_fear.wav|Say the word lease
+/content/emotion_dataset/happy/YAF_shawl_happy.wav|Say the word shawl
+/content/emotion_dataset/fear/03-01-06-01-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_hush_happy.wav|Say the word hush
+/content/emotion_dataset/neutral/OAF_limb_neutral.wav|Say the word limb
+/content/emotion_dataset/neutral/03-01-01-01-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_germ_fear.wav|Say the word germ
+/content/emotion_dataset/neutral/OAF_bath_neutral.wav|Say the word bath
+/content/emotion_dataset/fear/03-01-06-02-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_shall_angry.wav|Say the word shall
+/content/emotion_dataset/neutral/YAF_cheek_neutral.wav|Say the word cheek
+/content/emotion_dataset/sad/03-01-04-02-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_burn_happy.wav|Say the word burn
+/content/emotion_dataset/angry/OAF_pick_angry.wav|Say the word pick
+/content/emotion_dataset/sad/OAF_ring_sad.wav|Say the word ring
+/content/emotion_dataset/sad/YAF_tip_sad.wav|Say the word tip
+/content/emotion_dataset/fear/03-01-06-02-02-02-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_fall_sad.wav|Say the word fall
+/content/emotion_dataset/angry/03-01-05-01-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_ripe_neutral.wav|Say the word ripe
+/content/emotion_dataset/happy/OAF_merge_happy.wav|Say the word merge
+/content/emotion_dataset/happy/OAF_vine_happy.wav|Say the word vine
+/content/emotion_dataset/happy/YAF_week_happy.wav|Say the word week
+/content/emotion_dataset/happy/03-01-03-01-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_hole_happy.wav|Say the word hole
+/content/emotion_dataset/angry/OAF_doll_angry.wav|Say the word doll
+/content/emotion_dataset/happy/YAF_germ_happy.wav|Say the word germ
+/content/emotion_dataset/happy/YAF_road_happy.wav|Say the word road
+/content/emotion_dataset/angry/OAF_half_angry.wav|Say the word half
+/content/emotion_dataset/sad/03-01-04-02-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_voice_fear.wav|Say the word voice
+/content/emotion_dataset/neutral/YAF_ditch_neutral.wav|Say the word ditch
+/content/emotion_dataset/happy/03-01-03-02-01-02-21.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-02-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_keg_happy.wav|Say the word keg
+/content/emotion_dataset/sad/YAF_late_sad.wav|Say the word late
+/content/emotion_dataset/neutral/OAF_lot_neutral.wav|Say the word lot
+/content/emotion_dataset/sad/03-01-04-01-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/OAF_chief_sad.wav|Say the word chief
+/content/emotion_dataset/fear/OAF_gas_fear.wav|Say the word gas
+/content/emotion_dataset/neutral/03-01-01-01-01-01-19.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_pool_happy.wav|Say the word pool
+/content/emotion_dataset/happy/YAF_dead_happy.wav|Say the word dead
+/content/emotion_dataset/fear/OAF_vine_fear.wav|Say the word vine
+/content/emotion_dataset/neutral/YAF_wash_neutral.wav|Say the word wash
+/content/emotion_dataset/angry/OAF_soap_angry.wav|Say the word soap
+/content/emotion_dataset/neutral/OAF_boat_neutral.wav|Say the word boat
+/content/emotion_dataset/fear/03-01-06-02-01-02-20.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_pick_sad.wav|Say the word pick
+/content/emotion_dataset/fear/03-01-06-01-01-01-03.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_limb_sad.wav|Say the word limb
+/content/emotion_dataset/neutral/YAF_moon_neutral.wav|Say the word moon
+/content/emotion_dataset/neutral/YAF_bean_neutral.wav|Say the word bean
+/content/emotion_dataset/fear/OAF_half_fear.wav|Say the word half
+/content/emotion_dataset/fear/03-01-06-02-02-02-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_fat_angry.wav|Say the word fat
+/content/emotion_dataset/fear/OAF_team_fear.wav|Say the word team
+/content/emotion_dataset/fear/03-01-06-01-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/03-01-04-02-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_food_sad.wav|Say the word food
+/content/emotion_dataset/sad/YAF_pool_sad.wav|Say the word pool
+/content/emotion_dataset/angry/03-01-05-02-02-01-02.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-01-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_talk_angry.wav|Say the word talk
+/content/emotion_dataset/fear/YAF_lean_fear.wav|Say the word lean
+/content/emotion_dataset/fear/03-01-06-01-02-01-09.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_mess_neutral.wav|Say the word mess
+/content/emotion_dataset/angry/YAF_base_angry.wav|Say the word base
+/content/emotion_dataset/sad/YAF_date_sad.wav|Say the word date
+/content/emotion_dataset/fear/OAF_puff_fear.wav|Say the word puff
+/content/emotion_dataset/fear/OAF_laud_fear.wav|Say the word laud
+/content/emotion_dataset/fear/OAF_young_fear.wav|Say the word young
+/content/emotion_dataset/happy/OAF_goose_happy.wav|Say the word goose
+/content/emotion_dataset/fear/03-01-06-02-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_room_fear.wav|Say the word room
+/content/emotion_dataset/angry/YAF_take_angry.wav|Say the word take
+/content/emotion_dataset/fear/03-01-06-02-02-02-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_sub_fear.wav|Say the word sub
+/content/emotion_dataset/sad/OAF_sure_sad.wav|Say the word sure
+/content/emotion_dataset/sad/YAF_near_sad.wav|Say the word near
+/content/emotion_dataset/fear/YAF_cheek_fear.wav|Say the word cheek
+/content/emotion_dataset/angry/YAF_week_angry.wav|Say the word week
+/content/emotion_dataset/happy/YAF_door_happy.wav|Say the word door
+/content/emotion_dataset/happy/OAF_hit_happy.wav|Say the word hit
+/content/emotion_dataset/neutral/OAF_bar_neutral.wav|Say the word bar
+/content/emotion_dataset/angry/03-01-05-02-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_back_sad.wav|Say the word back
+/content/emotion_dataset/sad/03-01-04-02-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_pearl_neutral.wav|Say the word pearl
+/content/emotion_dataset/happy/OAF_dog_happy.wav|Say the word dog
+/content/emotion_dataset/neutral/OAF_laud_neutral.wav|Say the word laud
+/content/emotion_dataset/sad/OAF_thin_sad.wav|Say the word thin
+/content/emotion_dataset/happy/YAF_get_happy.wav|Say the word get
+/content/emotion_dataset/sad/YAF_goal_sad.wav|Say the word goal
+/content/emotion_dataset/fear/YAF_search_fear.wav|Say the word search
+/content/emotion_dataset/sad/03-01-04-02-01-02-24.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_raid_angry.wav|Say the word raid
+/content/emotion_dataset/neutral/YAF_pick_neutral.wav|Say the word pick
+/content/emotion_dataset/sad/03-01-04-01-01-02-17.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_witch_happy.wav|Say the word witch
+/content/emotion_dataset/happy/YAF_near_happy.wav|Say the word near
+/content/emotion_dataset/neutral/03-01-01-01-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-01-10.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-20.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-01-02-15.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_join_angry.wav|Say the word join
+/content/emotion_dataset/happy/OAF_five_happy.wav|Say the word five
+/content/emotion_dataset/angry/YAF_thin_angry.wav|Say the word thin
+/content/emotion_dataset/happy/03-01-03-02-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_tip_angry.wav|Say the word tip
+/content/emotion_dataset/happy/OAF_lean_happy.wav|Say the word lean
+/content/emotion_dataset/sad/YAF_raise_sad.wav|Say the word raise
+/content/emotion_dataset/neutral/OAF_wheat_neutral.wav|Say the word wheat
+/content/emotion_dataset/angry/OAF_nice_angry.wav|Say the word nice
+/content/emotion_dataset/neutral/OAF_search_neutral.wav|Say the word search
+/content/emotion_dataset/happy/03-01-03-01-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_red_happy.wav|Say the word red
+/content/emotion_dataset/fear/OAF_pike_fear.wav|Say the word pike
+/content/emotion_dataset/angry/03-01-05-01-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_match_angry.wav|Say the word match
+/content/emotion_dataset/happy/OAF_bar_happy.wav|Say the word bar
+/content/emotion_dataset/angry/YAF_bar_angry.wav|Say the word bar
+/content/emotion_dataset/neutral/OAF_room_neutral.wav|Say the word room
+/content/emotion_dataset/neutral/YAF_hire_neutral.wav|Say the word hire
+/content/emotion_dataset/neutral/OAF_whip_neutral.wav|Say the word whip
+/content/emotion_dataset/angry/OAF_boat_angry.wav|Say the word boat
+/content/emotion_dataset/fear/03-01-06-01-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_soap_neutral.wav|Say the word soap
+/content/emotion_dataset/sad/03-01-04-01-02-02-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_moon_happy.wav|Say the word moon
+/content/emotion_dataset/happy/OAF_young_happy.wav|Say the word young
+/content/emotion_dataset/fear/OAF_wire_fear.wav|Say the word wire
+/content/emotion_dataset/sad/YAF_mob_sad.wav|Say the word mob
+/content/emotion_dataset/neutral/03-01-01-01-01-02-20.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_pass_happy.wav|Say the word pass
+/content/emotion_dataset/angry/YAF_bath_angry.wav|Say the word bath
+/content/emotion_dataset/angry/YAF_pool_angry.wav|Say the word pool
+/content/emotion_dataset/sad/YAF_week_sad.wav|Say the word week
+/content/emotion_dataset/angry/YAF_pole_angry.wav|Say the word pole
+/content/emotion_dataset/angry/OAF_page_angry.wav|Say the word page
+/content/emotion_dataset/fear/OAF_near_fear.wav|Say the word near
+/content/emotion_dataset/happy/OAF_lose_happy.wav|Say the word lose
+/content/emotion_dataset/fear/YAF_ton_fear.wav|Say the word ton
+/content/emotion_dataset/angry/OAF_limb_angry.wav|Say the word limb
+/content/emotion_dataset/fear/YAF_deep_fear.wav|Say the word deep
+/content/emotion_dataset/sad/03-01-04-02-01-02-04.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-01-02-09.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_ring_sad.wav|Say the word ring
+/content/emotion_dataset/happy/03-01-03-02-01-02-12.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_white_neutral.wav|Say the word white
+/content/emotion_dataset/sad/OAF_reach_sad.wav|Say the word reach
+/content/emotion_dataset/fear/YAF_luck_fear.wav|Say the word luck
+/content/emotion_dataset/fear/03-01-06-02-02-01-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_near_angry.wav|Say the word near
+/content/emotion_dataset/sad/03-01-04-02-01-02-07.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_perch_sad.wav|Say the word perch
+/content/emotion_dataset/sad/03-01-04-01-02-02-10.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_tip_happy.wav|Say the word tip
+/content/emotion_dataset/angry/03-01-05-02-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_hit_fear.wav|Say the word hit
+/content/emotion_dataset/happy/03-01-03-01-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_near_happy.wav|Say the word near
+/content/emotion_dataset/happy/OAF_lid_happy.wav|Say the word lid
+/content/emotion_dataset/fear/03-01-06-01-01-01-22.wav|Kids are talking by the door
+/content/emotion_dataset/angry/YAF_choice_angry.wav|Say the word choice
+/content/emotion_dataset/happy/YAF_back_happy.wav|Say the word back
+/content/emotion_dataset/sad/OAF_witch_sad.wav|Say the word witch
+/content/emotion_dataset/neutral/03-01-01-01-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_mouse_happy.wav|Say the word mouse
+/content/emotion_dataset/angry/YAF_fit_angry.wav|Say the word fit
+/content/emotion_dataset/happy/03-01-03-02-02-01-08.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_page_happy.wav|Say the word page
+/content/emotion_dataset/happy/03-01-03-01-02-02-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/YAF_talk_angry.wav|Say the word talk
+/content/emotion_dataset/fear/OAF_met_fear.wav|Say the word met
+/content/emotion_dataset/happy/YAF_cause_happy.wav|Say the word cause
+/content/emotion_dataset/sad/OAF_chalk_sad.wav|Say the word chalk
+/content/emotion_dataset/neutral/03-01-01-01-01-02-08.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_bar_fear.wav|Say the word bar
+/content/emotion_dataset/angry/03-01-05-02-01-02-18.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_hurl_happy.wav|Say the word hurl
+/content/emotion_dataset/angry/OAF_sub_angry.wav|Say the word sub
+/content/emotion_dataset/happy/03-01-03-02-02-02-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_rot_fear.wav|Say the word rot
+/content/emotion_dataset/angry/03-01-05-01-01-01-24.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_germ_neutral.wav|Say the word germ
+/content/emotion_dataset/happy/OAF_soup_happy.wav|Say the word soup
+/content/emotion_dataset/neutral/YAF_loaf_neutral.wav|Say the word loaf
+/content/emotion_dataset/happy/03-01-03-02-01-01-18.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_bite_sad.wav|Say the word bite
+/content/emotion_dataset/sad/OAF_yes_sad.wav|Say the word yes
+/content/emotion_dataset/fear/OAF_sub_fear.wav|Say the word sub
+/content/emotion_dataset/sad/OAF_bar_sad.wav|Say the word bar
+/content/emotion_dataset/angry/YAF_shack_angry.wav|Say the word shack
+/content/emotion_dataset/neutral/OAF_phone_neutral.wav|Say the word phone
+/content/emotion_dataset/angry/03-01-05-01-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_pain_fear.wav|Say the word pain
+/content/emotion_dataset/sad/YAF_lot_sad.wav|Say the word lot
+/content/emotion_dataset/happy/OAF_said_happy.wav|Say the word said
+/content/emotion_dataset/angry/03-01-05-01-01-01-23.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_food_angry.wav|Say the word food
+/content/emotion_dataset/happy/03-01-03-02-01-01-21.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_seize_neutral.wav|Say the word seize
+/content/emotion_dataset/fear/03-01-06-01-01-02-07.wav|Kids are talking by the door
+/content/emotion_dataset/fear/03-01-06-01-01-01-13.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_five_happy.wav|Say the word five
+/content/emotion_dataset/neutral/OAF_long_neutral.wav|Say the word long
+/content/emotion_dataset/sad/YAF_sure_sad.wav|Say the word sure
+/content/emotion_dataset/fear/OAF_should_fear.wav|Say the word should
+/content/emotion_dataset/fear/03-01-06-01-02-01-15.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_shirt_fear.wav|Say the word shirt
+/content/emotion_dataset/happy/OAF_name_happy.wav|Say the word name
+/content/emotion_dataset/neutral/YAF_ton_neutral.wav|Say the word ton
+/content/emotion_dataset/happy/YAF_rose_happy.wav|Say the word rose
+/content/emotion_dataset/neutral/OAF_wash_neutral.wav|Say the word wash
+/content/emotion_dataset/sad/OAF_pass_sad.wav|Say the word pass
+/content/emotion_dataset/happy/OAF_half_happy.wav|Say the word half
+/content/emotion_dataset/neutral/YAF_met_neutral.wav|Say the word met
+/content/emotion_dataset/happy/OAF_raise_happy.wav|Say the word raise
+/content/emotion_dataset/happy/OAF_mill_happy.wav|Say the word mill
+/content/emotion_dataset/happy/OAF_peg_happy.wav|Say the word peg
+/content/emotion_dataset/happy/03-01-03-02-01-02-03.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_gap_sad.wav|Say the word gap
+/content/emotion_dataset/happy/YAF_raid_happy.wav|Say the word raid
+/content/emotion_dataset/fear/OAF_boat_fear.wav|Say the word boat
+/content/emotion_dataset/sad/OAF_dodge_sad.wav|Say the word dodge
+/content/emotion_dataset/neutral/OAF_hurl_neutral.wav|Say the word hurl
+/content/emotion_dataset/fear/OAF_dog_fear.wav|Say the word dog
+/content/emotion_dataset/sad/OAF_jar_sad.wav|Say the word jar
+/content/emotion_dataset/fear/03-01-06-01-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_check_happy.wav|Say the word check
+/content/emotion_dataset/angry/YAF_turn_angry.wav|Say the word turn
+/content/emotion_dataset/happy/YAF_phone_happy.wav|Say the word phone
+/content/emotion_dataset/happy/OAF_chat_happy.wav|Say the word chat
+/content/emotion_dataset/angry/OAF_mob_angry.wav|Say the word mob
+/content/emotion_dataset/fear/03-01-06-01-01-01-16.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_chief_neutral.wav|Say the word chief
+/content/emotion_dataset/fear/YAF_which_fear.wav|Say the word which
+/content/emotion_dataset/angry/03-01-05-01-02-02-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_read_fear.wav|Say the word read
+/content/emotion_dataset/neutral/YAF_deep_neutral.wav|Say the word deep
+/content/emotion_dataset/sad/03-01-04-02-01-02-23.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_perch_neutral.wav|Say the word perch
+/content/emotion_dataset/happy/YAF_name_happy.wav|Say the word name
+/content/emotion_dataset/fear/YAF_wire_fear.wav|Say the word wire
+/content/emotion_dataset/sad/YAF_mill_sad.wav|Say the word mill
+/content/emotion_dataset/angry/03-01-05-01-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_when_neutral.wav|Say the word when
+/content/emotion_dataset/angry/YAF_ripe_angry.wav|Say the word ripe
+/content/emotion_dataset/happy/OAF_talk_happy.wav|Say the word talk
+/content/emotion_dataset/happy/03-01-03-02-02-01-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_juice_neutral.wav|Say the word juice
+/content/emotion_dataset/sad/OAF_long_sad.wav|Say the word long
+/content/emotion_dataset/fear/OAF_cab_fear.wav|Say the word cab
+/content/emotion_dataset/angry/YAF_sub_angry.wav|Say the word sub
+/content/emotion_dataset/sad/OAF_chair_sad.wav|Say the word chair
+/content/emotion_dataset/happy/YAF_thumb_happy.wav|Say the word thumb
+/content/emotion_dataset/sad/OAF_search_sad.wav|Say the word search
+/content/emotion_dataset/sad/03-01-04-01-01-02-13.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_sell_fear.wav|Say the word sell
+/content/emotion_dataset/fear/YAF_tough_fear.wav|Say the word tough
+/content/emotion_dataset/sad/OAF_learn_sad.wav|Say the word learn
+/content/emotion_dataset/fear/03-01-06-02-02-02-07.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_bar_neutral.wav|Say the word bar
+/content/emotion_dataset/angry/YAF_red_angry.wav|Say the word red
+/content/emotion_dataset/fear/YAF_fat_fear.wav|Say the word fat
+/content/emotion_dataset/fear/YAF_tip_fear.wav|Say the word tip
+/content/emotion_dataset/happy/03-01-03-01-01-01-17.wav|Kids are talking by the door
+/content/emotion_dataset/fear/YAF_lose_fear.wav|Say the word lose
+/content/emotion_dataset/happy/OAF_hall_happy.wav|Say the word hall
+/content/emotion_dataset/fear/03-01-06-02-02-02-23.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/OAF_live_fear.wav|Say the word live
+/content/emotion_dataset/sad/YAF_bought_sad.wav|Say the word bought
+/content/emotion_dataset/sad/03-01-04-02-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_kite_neutral.wav|Say the word kite
+/content/emotion_dataset/angry/YAF_chat_angry.wav|Say the word chat
+/content/emotion_dataset/happy/YAF_page_happy.wav|Say the word page
+/content/emotion_dataset/angry/YAF_name_angry.wav|Say the word name
+/content/emotion_dataset/neutral/03-01-01-01-01-01-23.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_rose_sad.wav|Say the word rose
+/content/emotion_dataset/fear/03-01-06-02-01-01-23.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_shirt_happy.wav|Say the word shirt
+/content/emotion_dataset/happy/OAF_shout_happy.wav|Say the word shout
+/content/emotion_dataset/happy/03-01-03-01-02-01-22.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_kick_neutral.wav|Say the word kick
+/content/emotion_dataset/sad/YAF_kite_sad.wav|Say the word kite
+/content/emotion_dataset/neutral/YAF_gaze_neutral.wav|Say the word gaze
+/content/emotion_dataset/happy/OAF_sure_happy.wav|Say the word sure
+/content/emotion_dataset/sad/YAF_youth_sad.wav|Say the word youth
+/content/emotion_dataset/sad/OAF_pearl_sad.wav|Say the word pearl
+/content/emotion_dataset/angry/03-01-05-02-02-01-01.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_bean_happy.wav|Say the word bean
+/content/emotion_dataset/angry/03-01-05-01-01-01-09.wav|Kids are talking by the door
+/content/emotion_dataset/happy/YAF_said_happy.wav|Say the word said
+/content/emotion_dataset/happy/OAF_sub_happy.wav|Say the word sub
+/content/emotion_dataset/happy/YAF_youth_happy.wav|Say the word youth
+/content/emotion_dataset/fear/YAF_rush_fear.wav|Say the word rush
+/content/emotion_dataset/fear/OAF_gin_fear.wav|Say the word gin
+/content/emotion_dataset/fear/OAF_date_fear.wav|Say the word date
+/content/emotion_dataset/happy/03-01-03-02-01-02-01.wav|Kids are talking by the door
+/content/emotion_dataset/angry/OAF_rush_angry.wav|Say the word rush
+/content/emotion_dataset/angry/OAF_dead_angry.wav|Say the word dead
+/content/emotion_dataset/happy/03-01-03-01-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_cause_fear.wav|Say the word cause
+/content/emotion_dataset/sad/03-01-04-01-02-01-21.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_limb_fear.wav|Say the word limb
+/content/emotion_dataset/angry/03-01-05-01-02-02-12.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/03-01-06-02-01-01-07.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-02-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_check_neutral.wav|Say the word check
+/content/emotion_dataset/happy/YAF_dip_happy.wav|Say the word dip
+/content/emotion_dataset/neutral/03-01-01-01-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/YAF_shout_happy.wav|Say the word shout
+/content/emotion_dataset/happy/OAF_walk_happy.wav|Say the word walk
+/content/emotion_dataset/neutral/YAF_king_neutral.wav|Say the word king
+/content/emotion_dataset/neutral/YAF_base_neutral.wav|Say the word base
+/content/emotion_dataset/happy/YAF_came_happy.wav|Say the word came
+/content/emotion_dataset/angry/YAF_rose_angry.wav|Say the word rose
+/content/emotion_dataset/angry/YAF_thought_angry.wav|Say the word thought
+/content/emotion_dataset/happy/03-01-03-02-02-02-04.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_shirt_neutral.wav|Say the word shirt
+/content/emotion_dataset/fear/OAF_lease_fear.wav|Say the word lease
+/content/emotion_dataset/sad/03-01-04-02-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_sell_neutral.wav|Say the word sell
+/content/emotion_dataset/neutral/YAF_fit_neutral.wav|Say the word fit
+/content/emotion_dataset/angry/03-01-05-01-01-01-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/OAF_tape_sad.wav|Say the word tape
+/content/emotion_dataset/sad/YAF_haze_sad.wav|Say the word haze
+/content/emotion_dataset/angry/OAF_lose_angry.wav|Say the word lose
+/content/emotion_dataset/neutral/OAF_met_neutral.wav|Say the word met
+/content/emotion_dataset/angry/03-01-05-01-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/sad/YAF_learn_sad.wav|Say the word learn
+/content/emotion_dataset/happy/YAF_hash_happy.wav|Say the word hash
+/content/emotion_dataset/fear/OAF_shawl_fear.wav|Say the word shawl
+/content/emotion_dataset/fear/03-01-06-02-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/happy/OAF_back_happy.wav|Say the word back
+/content/emotion_dataset/neutral/YAF_neat_neutral.wav|Say the word neat
+/content/emotion_dataset/sad/OAF_mill_sad.wav|Say the word mill
+/content/emotion_dataset/sad/OAF_numb_sad.wav|Say the word numb
+/content/emotion_dataset/sad/OAF_match_sad.wav|Say the word match
+/content/emotion_dataset/neutral/03-01-01-01-01-01-14.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_mill_fear.wav|Say the word mill
+/content/emotion_dataset/happy/OAF_road_happy.wav|Say the word road
+/content/emotion_dataset/fear/OAF_third_fear.wav|Say the word third
+/content/emotion_dataset/neutral/YAF_peg_neutral.wav|Say the word peg
+/content/emotion_dataset/sad/OAF_fit_sad.wav|Say the word fit
+/content/emotion_dataset/happy/YAF_match_happy.wav|Say the word match
+/content/emotion_dataset/angry/YAF_mob_angry.wav|Say the word mob
+/content/emotion_dataset/happy/YAF_pad_happy.wav|Say the word pad
+/content/emotion_dataset/angry/YAF_fall_angry.wav|Say the word fall
+/content/emotion_dataset/neutral/OAF_hit_neutral.wav|Say the word hit
+/content/emotion_dataset/sad/03-01-04-02-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_name_fear.wav|Say the word name
+/content/emotion_dataset/sad/YAF_ripe_sad.wav|Say the word ripe
+/content/emotion_dataset/sad/YAF_voice_sad.wav|Say the word voice
+/content/emotion_dataset/angry/YAF_raise_angry.wav|Say the word raise
+/content/emotion_dataset/happy/YAF_when_happy.wav|Say the word when
+/content/emotion_dataset/happy/03-01-03-02-02-02-16.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-02-02-02-24.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/OAF_gas_happy.wav|Say the word gas
+/content/emotion_dataset/neutral/YAF_dab_neutral.wav|Say the word dab
+/content/emotion_dataset/sad/OAF_walk_sad.wav|Say the word walk
+/content/emotion_dataset/angry/OAF_rain_angry.wav|Say the word rain
+/content/emotion_dataset/fear/OAF_dip_fear.wav|Say the word dip
+/content/emotion_dataset/neutral/OAF_gas_neutral.wav|Say the word gas
+/content/emotion_dataset/fear/YAF_check_fear.wav|Say the word check
+/content/emotion_dataset/angry/YAF_dip_angry.wav|Say the word dip
+/content/emotion_dataset/sad/YAF_search_sad.wav|Say the word search
+/content/emotion_dataset/neutral/YAF_goose_neutral.wav|Say the word goose
+/content/emotion_dataset/happy/03-01-03-02-02-01-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_such_neutral.wav|Say the word such
+/content/emotion_dataset/sad/03-01-04-01-02-01-17.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-01-02-06.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-02-02-01-03.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_yearn_neutral.wav|Say the word yearn
+/content/emotion_dataset/neutral/YAF_puff_neutral.wav|Say the word puff
+/content/emotion_dataset/angry/YAF_lot_angry.wav|Say the word lot
+/content/emotion_dataset/fear/YAF_dip_fear.wav|Say the word dip
+/content/emotion_dataset/sad/OAF_good_sad.wav|Say the word good
+/content/emotion_dataset/happy/OAF_dab_happy.wav|Say the word dab
+/content/emotion_dataset/angry/03-01-05-01-02-02-19.wav|Dogs are sitting by the door
+/content/emotion_dataset/happy/03-01-03-01-02-02-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_good_neutral.wav|Say the word good
+/content/emotion_dataset/angry/03-01-05-02-02-02-06.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_pad_angry.wav|Say the word pad
+/content/emotion_dataset/angry/03-01-05-01-01-02-04.wav|Kids are talking by the door
+/content/emotion_dataset/fear/OAF_mob_fear.wav|Say the word mob
+/content/emotion_dataset/fear/03-01-06-01-01-02-17.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-02-02-01-20.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/YAF_cause_neutral.wav|Say the word cause
+/content/emotion_dataset/sad/OAF_met_sad.wav|Say the word met
+/content/emotion_dataset/neutral/YAF_sail_neutral.wav|Say the word sail
+/content/emotion_dataset/fear/03-01-06-01-01-01-08.wav|Kids are talking by the door
+/content/emotion_dataset/happy/03-01-03-01-01-01-05.wav|Kids are talking by the door
+/content/emotion_dataset/angry/03-01-05-01-02-02-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/03-01-01-01-02-02-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/fear/YAF_white_fear.wav|Say the word white
+/content/emotion_dataset/happy/OAF_team_happy.wav|Say the word team
+/content/emotion_dataset/sad/YAF_cheek_sad.wav|Say the word cheek
+/content/emotion_dataset/angry/03-01-05-01-02-01-13.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_keen_neutral.wav|Say the word keen
+/content/emotion_dataset/happy/OAF_make_happy.wav|Say the word make
+/content/emotion_dataset/angry/OAF_book_angry.wav|Say the word book
+/content/emotion_dataset/neutral/OAF_pass_neutral.wav|Say the word pass
+/content/emotion_dataset/fear/03-01-06-02-01-01-06.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/OAF_five_neutral.wav|Say the word five
+/content/emotion_dataset/neutral/03-01-01-01-02-02-05.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_pain_sad.wav|Say the word pain
+/content/emotion_dataset/angry/03-01-05-01-02-01-11.wav|Dogs are sitting by the door
+/content/emotion_dataset/sad/YAF_lose_sad.wav|Say the word lose
+/content/emotion_dataset/happy/OAF_void_happy.wav|Say the word void
+/content/emotion_dataset/happy/YAF_sour_happy.wav|Say the word sour
+/content/emotion_dataset/neutral/OAF_note_neutral.wav|Say the word note
+/content/emotion_dataset/angry/OAF_chalk_angry.wav|Say the word chalk
+/content/emotion_dataset/neutral/OAF_young_neutral.wav|Say the word young
+/content/emotion_dataset/happy/YAF_shirt_happy.wav|Say the word shirt
+/content/emotion_dataset/fear/YAF_near_fear.wav|Say the word near
+/content/emotion_dataset/happy/03-01-03-01-01-02-02.wav|Kids are talking by the door
+/content/emotion_dataset/sad/03-01-04-01-02-01-18.wav|Dogs are sitting by the door
+/content/emotion_dataset/neutral/OAF_moon_neutral.wav|Say the word moon
+/content/emotion_dataset/sad/OAF_half_sad.wav|Say the word half
+/content/emotion_dataset/sad/OAF_shall_sad.wav|Say the word shall
+/content/emotion_dataset/neutral/YAF_bought_neutral.wav|Say the word bought
+/content/emotion_dataset/happy/YAF_room_happy.wav|Say the word room
+/content/emotion_dataset/sad/OAF_raise_sad.wav|Say the word raise
+/content/emotion_dataset/neutral/YAF_mob_neutral.wav|Say the word mob
+/content/emotion_dataset/sad/03-01-04-02-02-02-14.wav|Dogs are sitting by the door
+/content/emotion_dataset/angry/OAF_bar_angry.wav|Say the word bar
+/content/emotion_dataset/angry/03-01-05-02-01-02-11.wav|Kids are talking by the door
+/content/emotion_dataset/neutral/YAF_vote_neutral.wav|Say the word vote
+/content/emotion_dataset/angry/YAF_far_angry.wav|Say the word far
+/content/emotion_dataset/happy/YAF_numb_happy.wav|Say the word numb
+/content/emotion_dataset/neutral/OAF_shout_neutral.wav|Say the word shout
+/content/emotion_dataset/sad/YAF_boat_sad.wav|Say the word boat
+/content/emotion_dataset/fear/OAF_gaze_fear.wav|Say the word gaze
